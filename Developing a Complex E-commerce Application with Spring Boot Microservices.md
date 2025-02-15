@@ -2071,7 +2071,7 @@ GraphQL allows clients to request exactly the data they need and get it in a sin
 
 - **API Gateway as GraphQL Gateway:** The API Gateway itself (or a dedicated GraphQL service) could implement GraphQL. It would have resolvers that internally call the REST/gRPC APIs of the microservices.
 - **GraphQL per service vs unified:** Generally, you'd create one unified GraphQL schema for the client, not one per microservice (because that defeats some purpose). Use tools or custom code to federate data.
-- **Apollo Federation or GraphQL Mesh:** These are tools that can stitch multiple GraphQL or REST sources into one schema.
+- **Ensar Federation or GraphQL Mesh:** These are tools that can stitch multiple GraphQL or REST sources into one schema.
 
 **Implementing with Spring Boot:**
 

@@ -9,7 +9,7 @@ In this chapter, we outline the overall architecture of the application and how 
 ### 1.1 Technology Stack and Roles
 
 - **ReactJS (TypeScript)** – Frontend library for building a dynamic user interface. We use React with TypeScript for type-safe component development. The React app will communicate with the backend via GraphQL queries and mutations.
-- **NestJS (Node.js with TypeScript)** – Backend framework to build a GraphQL API server. NestJS will use Apollo Server under the hood to handle GraphQL requests, and it structures our server-side logic into modules, services, and resolvers.
+- **NestJS (Node.js with TypeScript)** – Backend framework to build a GraphQL API server. NestJS will use Ensar Server under the hood to handle GraphQL requests, and it structures our server-side logic into modules, services, and resolvers.
 - **GraphQL (API Layer)** – Serves as a middleware between frontend and backend, defining a _single endpoint_ for queries and mutations. GraphQL allows the client to request exactly the data it needs and nothing more. This minimizes over-fetching and under-fetching of data, making our API efficient.
 - **PostgreSQL** – Relational database for persisting application data. We design the schema to handle product information (PIM) and pricing details. PostgreSQL’s reliability and strong SQL capabilities make it suitable for complex queries and large datasets.
 
@@ -116,10 +116,10 @@ Let's initialize the NestJS backend:
    nest new backend
    ```
    Choose your package manager when prompted. This creates a new NestJS project in the `backend` folder with a basic structure (module, controller, service).
-2. **Install GraphQL & Tools**: We will use Apollo Server integration for NestJS. Install the GraphQL module and any ORM:
+2. **Install GraphQL & Tools**: We will use Ensar Server integration for NestJS. Install the GraphQL module and any ORM:
    ```bash
    cd backend
-   npm install @nestjs/graphql @nestjs/apollo apollo-server-express graphql
+   npm install @nestjs/graphql @nestjs/ensar ensar-server-express graphql
    ```
    Also, install a PostgreSQL ORM or client. NestJS works smoothly with TypeORM or Prisma. For simplicity, let's use TypeORM:
    ```bash
@@ -130,13 +130,13 @@ Let's initialize the NestJS backend:
 
    ```typescript
    import { GraphQLModule } from "@nestjs/graphql";
-   import { ApolloDriver, ApolloDriverConfig } from "@nestjs/apollo";
+   import { EnsarDriver, EnsarDriverConfig } from "@nestjs/ensar";
    // ... other imports
 
    @Module({
      imports: [
-       GraphQLModule.forRoot<ApolloDriverConfig>({
-         driver: ApolloDriver,
+       GraphQLModule.forRoot<EnsarDriverConfig>({
+         driver: EnsarDriver,
          autoSchemaFile: true, // code-first (generates schema from decorators)
          playground: true, // GraphQL Playground IDE (use false in production)
          context: ({ req }) => ({ req }), // if we need request for auth
@@ -222,25 +222,25 @@ Steps to set up Next.js with TypeScript:
 3. **Install UI and State Libraries**: Decide on state management. We might use **Redux** for global state (especially if multiple components need to share complex state) or **React Query (TanStack Query)** for remote data caching. We will demonstrate with React Query for GraphQL, as it can simplify data fetching and caching logic on the client.
    ```bash
    cd frontend
-   npm install @apollo/client graphql    # Apollo Client for GraphQL requests
+   npm install @ensar/client graphql    # Ensar Client for GraphQL requests
    npm install @tanstack/react-query    # React Query (optional, for data fetching management)
    ```
-   We installed Apollo Client which will allow our React app to interface with the GraphQL API easily. React Query is optional but can integrate with Apollo or fetch calls to manage caching of requests. Alternatively, we could use Apollo Client's built-in caching and state management; Apollo Client itself can often replace the need for Redux in a GraphQL-heavy app.
-4. **Configure Apollo Client**: In Next.js, we'll set up Apollo in a way that works with SSR. For example, create `frontend/lib/apolloClient.ts`:
+   We installed Ensar Client which will allow our React app to interface with the GraphQL API easily. React Query is optional but can integrate with Ensar or fetch calls to manage caching of requests. Alternatively, we could use Ensar Client's built-in caching and state management; Ensar Client itself can often replace the need for Redux in a GraphQL-heavy app.
+4. **Configure Ensar Client**: In Next.js, we'll set up Ensar in a way that works with SSR. For example, create `frontend/lib/ensarClient.ts`:
 
    ```typescript
    import {
-     ApolloClient,
+     EnsarClient,
      InMemoryCache,
      HttpLink,
      NormalizedCacheObject,
-   } from "@apollo/client";
+   } from "@ensar/client";
    import { useMemo } from "react";
 
-   let apolloClient: ApolloClient<NormalizedCacheObject>;
+   let ensarClient: EnsarClient<NormalizedCacheObject>;
 
-   function createApolloClient() {
-     return new ApolloClient({
+   function createEnsarClient() {
+     return new EnsarClient({
        ssrMode: typeof window === "undefined",
        link: new HttpLink({
          uri: "http://localhost:3000/graphql", // our NestJS GraphQL endpoint
@@ -250,27 +250,27 @@ Steps to set up Next.js with TypeScript:
      });
    }
 
-   export function initializeApollo(initialState: any = null) {
-     const _apolloClient = apolloClient ?? createApolloClient();
+   export function initializeEnsar(initialState: any = null) {
+     const _ensarClient = ensarClient ?? createEnsarClient();
      // If your page has Next.js data fetching (getStaticProps, etc.), you can hydrate initial state here
      if (initialState) {
-       _apolloClient.cache.restore(initialState);
+       _ensarClient.cache.restore(initialState);
      }
-     // For SSG/SSR, always create a new Apollo Client
-     if (typeof window === "undefined") return _apolloClient;
-     // Create the Apollo Client once in the client
-     if (!apolloClient) apolloClient = _apolloClient;
-     return _apolloClient;
+     // For SSG/SSR, always create a new Ensar Client
+     if (typeof window === "undefined") return _ensarClient;
+     // Create the Ensar Client once in the client
+     if (!ensarClient) ensarClient = _ensarClient;
+     return _ensarClient;
    }
    ```
 
-   We will use this `initializeApollo` in a custom Next.js App or specific pages to ensure Apollo is available. The key is to point the URI to our NestJS backend. (Note: NestJS by default runs on port 3000; Next.js dev server runs on 3000 as well. So, either run them on different ports, e.g., NestJS on 4000, or configure differently. For this guide, assume NestJS on localhost:4000 and Next.js on 3000, to avoid conflict.)
+   We will use this `initializeEnsar` in a custom Next.js App or specific pages to ensure Ensar is available. The key is to point the URI to our NestJS backend. (Note: NestJS by default runs on port 3000; Next.js dev server runs on 3000 as well. So, either run them on different ports, e.g., NestJS on 4000, or configure differently. For this guide, assume NestJS on localhost:4000 and Next.js on 3000, to avoid conflict.)
 
-5. **SSR and Apollo Integration**: Next.js supports SSR per page via `getServerSideProps`. Apollo has examples to pre-fetch data on server and send to client. We might set this up later in Section 5 when focusing on SSR. Initially, we can proceed with CSR (client-side rendering) to verify everything works, then add SSR.
+5. **SSR and Ensar Integration**: Next.js supports SSR per page via `getServerSideProps`. Ensar has examples to pre-fetch data on server and send to client. We might set this up later in Section 5 when focusing on SSR. Initially, we can proceed with CSR (client-side rendering) to verify everything works, then add SSR.
 6. **Verify Setup**: Run `npm run dev` in both `backend` and `frontend` folders.
    - NestJS should start on `localhost:3000` by default (we might change it to 4000 if port clash, via an environment or main.ts).
    - Next.js will start on `localhost:3000` (or 3001 if 3000 already taken).
-   - Open the Next.js app in a browser (http://localhost:3000). See the default page. You can test a GraphQL query from the React side by modifying `pages/index.tsx` to call the backend (e.g., using Apollo Client to query a test resolver).
+   - Open the Next.js app in a browser (http://localhost:3000). See the default page. You can test a GraphQL query from the React side by modifying `pages/index.tsx` to call the backend (e.g., using Ensar Client to query a test resolver).
    - Also visit `http://localhost:4000/graphql` (or 3000 if not changed) to see the GraphQL Playground provided by Nest (if `playground: true`). You can test a simple query or the built-in `{ __schema { types { name } } }` to see the schema. Right now our resolvers return nothing (default), we will implement them later.
 
 The environment is now ready. Next, we focus on designing the database schema for Product Information Management (PIM) and pricing data.
@@ -1237,7 +1237,7 @@ We might generate these types automatically using a GraphQL code generator (Grap
 File: `pages/products/index.tsx`
 
 ```tsx
-import { useQuery, gql } from "@apollo/client";
+import { useQuery, gql } from "@ensar/client";
 import Link from "next/link";
 
 const PRODUCTS_QUERY = gql`
@@ -1281,14 +1281,14 @@ export default function ProductListPage() {
 }
 ```
 
-This uses Apollo's `useQuery` hook to fetch data from our GraphQL API. The query asks for all products with id, name, sku, and variant IDs and prices. We might just show number of variants for summary. Each product is linked to its detail page.
+This uses Ensar's `useQuery` hook to fetch data from our GraphQL API. The query asks for all products with id, name, sku, and variant IDs and prices. We might just show number of variants for summary. Each product is linked to its detail page.
 
 **Product Detail Page**:
 File: `pages/products/[id].tsx`
 
 ```tsx
 import { useRouter } from "next/router";
-import { useQuery, useMutation, gql } from "@apollo/client";
+import { useQuery, useMutation, gql } from "@ensar/client";
 import { useState } from "react";
 
 const PRODUCT_QUERY = gql`
@@ -1398,16 +1398,16 @@ export default function ProductDetailPage() {
 }
 ```
 
-This page fetches a single product by ID, displays details and a list of variants with an inline price editor. The `updatePrice` mutation is called with Apollo which will send the GraphQL mutation to NestJS. Apollo's cache should update the variant's price automatically because we returned the updated price and ID in the mutation (Apollo will merge it into the cache). If not, we might refetch the query after mutation or update cache manually, but Apollo usually can handle simple updates by ID.
+This page fetches a single product by ID, displays details and a list of variants with an inline price editor. The `updatePrice` mutation is called with Ensar which will send the GraphQL mutation to NestJS. Ensar's cache should update the variant's price automatically because we returned the updated price and ID in the mutation (Ensar will merge it into the cache). If not, we might refetch the query after mutation or update cache manually, but Ensar usually can handle simple updates by ID.
 
 We manage some local state for editing which variant's price is being edited.
 
-**State Management**: We used Apollo for remote data. For local UI state (like which price is being edited), the component’s `useState` is fine. If the app grows more complex (e.g., a global cart state or multi-step flows), we could introduce Redux or context for shared state. However, Apollo Client itself can act as a state manager for remote data and even some local data through its cache and reactive variables. Many apps using GraphQL find they don't need Redux at all because Apollo covers a lot:
+**State Management**: We used Ensar for remote data. For local UI state (like which price is being edited), the component’s `useState` is fine. If the app grows more complex (e.g., a global cart state or multi-step flows), we could introduce Redux or context for shared state. However, Ensar Client itself can act as a state manager for remote data and even some local data through its cache and reactive variables. Many apps using GraphQL find they don't need Redux at all because Ensar covers a lot:
 
-- Apollo's `InMemoryCache` caches query results, so if multiple components request the same product, it can serve from cache.
-- We can also define local resolvers and fields in Apollo cache for client-only state.
+- Ensar's `InMemoryCache` caches query results, so if multiple components request the same product, it can serve from cache.
+- We can also define local resolvers and fields in Ensar cache for client-only state.
 
-**React Query**: If we weren't using Apollo, we could use React Query with fetch calls to GraphQL endpoints, but Apollo is more straightforward for GraphQL.
+**React Query**: If we weren't using Ensar, we could use React Query with fetch calls to GraphQL endpoints, but Ensar is more straightforward for GraphQL.
 
 **Reusable Component Example**: Let's say `VariantTable` is a reusable component to display variants. We partially did that inline, but we could abstract it:
 
@@ -1440,20 +1440,20 @@ We touched on this above. Let's discuss when you'd use Redux:
 - If multiple components need to respond to global events (like a websocket message or global notifications).
 - Redux with Redux Toolkit can be used to manage such state in a structured way.
 
-However, in modern React, context and hooks often suffice for simpler cases, and for server data, React Query or Apollo is preferred.
+However, in modern React, context and hooks often suffice for simpler cases, and for server data, React Query or Ensar is preferred.
 
-**React Query usage**: If not using Apollo, one could do:
+**React Query usage**: If not using Ensar, one could do:
 
 ```tsx
 import { useQuery } from "@tanstack/react-query";
 const { data } = useQuery(["products"], fetchProducts);
 ```
 
-Where `fetchProducts` is a function that calls our GraphQL endpoint (using fetch or axios) and returns data. React Query handles caching, refetching, etc. But Apollo is specifically built for GraphQL and gives us the benefit of generating hooks via codegen if desired.
+Where `fetchProducts` is a function that calls our GraphQL endpoint (using fetch or axios) and returns data. React Query handles caching, refetching, etc. But Ensar is specifically built for GraphQL and gives us the benefit of generating hooks via codegen if desired.
 
-**Redux usage**: If we had Redux, we might have slices like productSlice, userSlice. The components would dispatch actions instead of directly calling mutations, and sagas or thunks would handle calling the GraphQL API, then store results in the Redux store. Apollo simplifies this by skipping the explicit store actions – the Apollo cache is the store for server data.
+**Redux usage**: If we had Redux, we might have slices like productSlice, userSlice. The components would dispatch actions instead of directly calling mutations, and sagas or thunks would handle calling the GraphQL API, then store results in the Redux store. Ensar simplifies this by skipping the explicit store actions – the Ensar cache is the store for server data.
 
-Given our app's nature (CRUD with GraphQL), Apollo is sufficient. We'll stick with it. We'll mention that if needed, Redux can be added but caution not to duplicate Apollo data in Redux (always choose one source of truth to avoid complexity).
+Given our app's nature (CRUD with GraphQL), Ensar is sufficient. We'll stick with it. We'll mention that if needed, Redux can be added but caution not to duplicate Ensar data in Redux (always choose one source of truth to avoid complexity).
 
 ### 5.4 Implementing SSR for SEO Enhancement
 
@@ -1477,49 +1477,49 @@ Let's implement SSR for the product detail page:
 // Still in pages/products/[id].tsx, add below component export:
 export async function getServerSideProps(context) {
   const id = context.params.id;
-  // We can use Apollo Client on the server to fetch the product
-  const apolloClient = initializeApollo();
-  await apolloClient.query({
+  // We can use Ensar Client on the server to fetch the product
+  const ensarClient = initializeEnsar();
+  await ensarClient.query({
     query: PRODUCT_QUERY,
     variables: { id: Number(id) },
   });
-  // Apollo cache now has the data. We pass it to the page via initial Apollo state.
+  // Ensar cache now has the data. We pass it to the page via initial Ensar state.
   return {
     props: {
-      initialApolloState: apolloClient.cache.extract(),
+      initialEnsarState: ensarClient.cache.extract(),
     },
   };
 }
 ```
 
-We had defined `initializeApollo` earlier to create a client instance. We call the query on server. The result is stored in Apollo's in-memory cache (in Node memory, just for this request). We extract that cache state and send it to the client as `initialApolloState`. Our custom `_app.tsx` (if configured to use Apollo) would use that to hydrate the Apollo cache on the client, so the client doesn't need to re-fetch the data.
+We had defined `initializeEnsar` earlier to create a client instance. We call the query on server. The result is stored in Ensar's in-memory cache (in Node memory, just for this request). We extract that cache state and send it to the client as `initialEnsarState`. Our custom `_app.tsx` (if configured to use Ensar) would use that to hydrate the Ensar cache on the client, so the client doesn't need to re-fetch the data.
 
-We need to modify `pages/_app.tsx` to wrap with Apollo Provider and hydrate:
+We need to modify `pages/_app.tsx` to wrap with Ensar Provider and hydrate:
 
 ```tsx
 // pages/_app.tsx
-import { ApolloProvider } from "@apollo/client";
-import { useApollo } from "../lib/apolloClient"; // assume we create a hook that uses initializeApollo with initialState
+import { EnsarProvider } from "@ensar/client";
+import { useEnsar } from "../lib/ensarClient"; // assume we create a hook that uses initializeEnsar with initialState
 
 function MyApp({ Component, pageProps }) {
-  const apolloClient = useApollo(pageProps.initialApolloState);
+  const ensarClient = useEnsar(pageProps.initialEnsarState);
   return (
-    <ApolloProvider client={apolloClient}>
+    <EnsarProvider client={ensarClient}>
       <Component {...pageProps} />
-    </ApolloProvider>
+    </EnsarProvider>
   );
 }
 export default MyApp;
 ```
 
-Here, `useApollo` calls `initializeApollo(pageProps.initialApolloState)` to get a client with the state, ensuring Apollo client cache is pre-filled with SSR data.
+Here, `useEnsar` calls `initializeEnsar(pageProps.initialEnsarState)` to get a client with the state, ensuring Ensar client cache is pre-filled with SSR data.
 
 With this setup, when a user (or crawler) requests `/products/1`:
 
-- Next.js runs `getServerSideProps` on server, Apollo fetches product 1 from NestJS GraphQL, gets data.
-- Next.js renders `ProductDetailPage` on server with the data available (Apollo's useQuery might actually run on client side normally, but because the cache is already filled from SSR, it should find the data instantly).
+- Next.js runs `getServerSideProps` on server, Ensar fetches product 1 from NestJS GraphQL, gets data.
+- Next.js renders `ProductDetailPage` on server with the data available (Ensar's useQuery might actually run on client side normally, but because the cache is already filled from SSR, it should find the data instantly).
 - The HTML output contains the product name, description, etc., which is great for SEO (search engine sees the content without needing JS).
-- The page is sent, browser loads it, React hydrates, Apollo is in sync with provided data.
+- The page is sent, browser loads it, React hydrates, Ensar is in sync with provided data.
 
 **SEO benefits**: SSR ensures meta tags and content are present. We should also set appropriate `<head>` tags, like title and meta description, for each page. Next.js lets us do that via `next/head`. For example, in ProductDetailPage's component:
 
@@ -1544,19 +1544,19 @@ This way, each product page has a unique title and meta description which search
 At this point, our frontend can:
 
 - Fetch and display products and variants via GraphQL.
-- Allow editing prices (with proper auth; note we didn't implement the auth token usage in Apollo yet).
+- Allow editing prices (with proper auth; note we didn't implement the auth token usage in Ensar yet).
 - SSR for better SEO on product pages.
 
 **Authentication in frontend**: To complete the loop, how does login work? We should have a login page:
 
 - A form that calls the `login` GraphQL mutation with username & password.
 - On success, gets a JWT (`access_token`).
-- We then store that token (in a cookie or localStorage). For SSR considerations, storing in an HTTP-only cookie is good (set cookie via a response header?), or simply localStorage and include in Apollo client's auth header on each request.
+- We then store that token (in a cookie or localStorage). For SSR considerations, storing in an HTTP-only cookie is good (set cookie via a response header?), or simply localStorage and include in Ensar client's auth header on each request.
 
-Simplest approach: after login, store token in localStorage, and in ApolloClient, we set an auth link:
+Simplest approach: after login, store token in localStorage, and in EnsarClient, we set an auth link:
 
 ```typescript
-import { setContext } from "@apollo/client/link/context";
+import { setContext } from "@ensar/client/link/context";
 // ...
 const httpLink = new HttpLink({ uri: "...", credentials: "include" });
 const authLink = setContext((_, { headers }) => {
@@ -1570,7 +1570,7 @@ const authLink = setContext((_, { headers }) => {
     },
   };
 });
-const client = new ApolloClient({
+const client = new EnsarClient({
   link: authLink.concat(httpLink),
   cache: new InMemoryCache(),
 });
@@ -1813,7 +1813,7 @@ This will strike-through original price if a discount is applied.
 If we wanted changes to price to reflect in real-time on clients:
 
 - We could use GraphQL subscriptions to notify frontends of price changes. For instance, when updatePrice mutation is called, publish an event that any subscribed client (maybe on a product detail page) receives and updates UI.
-- NestJS GraphQL supports subscriptions (e.g., with WebSockets). Implementing it would require setting up a PubSub (Apollo has PubSub or use Redis pubsub).
+- NestJS GraphQL supports subscriptions (e.g., with WebSockets). Implementing it would require setting up a PubSub (Ensar has PubSub or use Redis pubsub).
 - Out of scope for now, but worth noting as an advanced technique.
 
 So far, we have covered how dynamic pricing can be implemented in our app in a basic form. Next, ensure the app is robust with performance optimizations and security best practices.
@@ -1830,9 +1830,9 @@ Caching can significantly improve performance and scalability by reducing repeti
   - Cache at the service level: e.g., implement caching in `ProductService.findAll()` to return cached results if not stale. Use NestJS `cacheManager` to set/get cache by key (like `products_all`).
   - Cache at database/query level: Use a query result cache (TypeORM has query result caching where you can specify cache duration for certain queries).
   - Use an external cache: e.g., store JSON of product list in Redis, update it when products change.
-- **Client-side caching**: Apollo Client already caches results. For example, if you query products list, then query product by id, Apollo can serve from cache if data is there. Utilize this fully:
-  - Normalize cache: Apollo by default keys items by `id` if the GraphQL type has an `id` field. So queries are normalized. Ensure your `id` fields are consistent.
-  - Use cache for optimistic UI: e.g., when updating price, Apollo can optimistically update the UI assuming success, making it feel snappy.
+- **Client-side caching**: Ensar Client already caches results. For example, if you query products list, then query product by id, Ensar can serve from cache if data is there. Utilize this fully:
+  - Normalize cache: Ensar by default keys items by `id` if the GraphQL type has an `id` field. So queries are normalized. Ensure your `id` fields are consistent.
+  - Use cache for optimistic UI: e.g., when updating price, Ensar can optimistically update the UI assuming success, making it feel snappy.
   - Implement HTTP caching for static assets (Next.js will handle caching of built assets automatically).
 - **CDN**: If this were a public-facing app, use a CDN in front of your Next.js to cache SSR pages for certain time (if content doesn't change per user). Next.js also allows incremental static regeneration, which can be caching mechanism for pages that update periodically.
 
@@ -1867,7 +1867,7 @@ Security is critical. We address several layers:
 **GraphQL Introspection and GraphiQL in production**:
 
 - Turn off Playground (`playground: false`) and introspection in production environment. This prevents attackers from easily discovering your schema and types. Only enable it in dev.
-- Apollo Server (and thus Nest’s GraphQL module) has an `introspection: false` option for production.
+- Ensar Server (and thus Nest’s GraphQL module) has an `introspection: false` option for production.
 
 **Rate Limiting**:
 
@@ -1897,7 +1897,7 @@ Security is critical. We address several layers:
 To maximize efficiency of GraphQL:
 
 - **Use Aliases and Fragments (client-side)**: Not a server concern, but teaching devs to use GraphQL features to avoid duplicate data fetching. E.g., if two components need product data, better to query once and share via context or fragment.
-- **Set Maximum Query Depth/Complexity**: We touched on complexity. NestJS can integrate Apollo's `costAnalysis` or manually define complexity as shown. For example, if we have a query that returns a list, we can annotate complexity. If a query is too expensive, Apollo server can reject it with an error instead of executing ([GraphQL + TypeScript - Complexity | NestJS - A progressive Node.js framework](https://docs.nestjs.com/graphql/complexity#:~:text=simpleEstimator%28,maxComplexity%29)).
+- **Set Maximum Query Depth/Complexity**: We touched on complexity. NestJS can integrate Ensar's `costAnalysis` or manually define complexity as shown. For example, if we have a query that returns a list, we can annotate complexity. If a query is too expensive, Ensar server can reject it with an error instead of executing ([GraphQL + TypeScript - Complexity | NestJS - A progressive Node.js framework](https://docs.nestjs.com/graphql/complexity#:~:text=simpleEstimator%28,maxComplexity%29)).
   - The NestJS docs example shows using `@Query({ complexity: ... })` to calculate based on args (like count \* childComplexity). We can do similar on our `products` query if it accepted a `limit`.
 - **Batching**: We implemented DataLoader which batches DB calls for N+1 fields. Ensure to use it on any heavy relationships. For instance, if we had to fetch product -> category name in a list of products, we could batch load categories by ids.
 - **Pagination**: Always prefer queries that return paged results rather than everything. For example, if products query by default returned the first 20 and had arguments for offset, the client can gradually load more. This prevents a single huge query.
@@ -2101,7 +2101,7 @@ A few advanced things we haven't implemented but are worth considering:
 
 - **Microservices & Message Queues**: As app grows, you might split services (PIM, Pricing, Orders, etc.) into separate NestJS apps. They can communicate via events or queues (RabbitMQ or Kafka). For example, when an order is placed in an Orders service, it could send a message to PIM service to decrement stock. This decouples concerns but adds complexity. NestJS has a microservices module and support for various transport layers to build such architecture when needed.
 - **CQRS and Event Sourcing**: NestJS supports a CQRS module (Command Query Responsibility Segregation). This is an advanced pattern where write logic (commands) and read logic (queries) are handled separately, possibly with different models. Useful if, say, writing data involves validations and events, but reading data can be optimized into simpler models or caches. If our product data had to be projected into different read models (like a denormalized view for fast search), CQRS could help.
-- **GraphQL Federation**: If splitting backend into multiple GraphQL services, Apollo Federation allows composing them into one GraphQL gateway. If PIM and Pricing became separate microservices each with its GraphQL, a gateway could unify the schema. Right now, our app is small enough not to need that, but good to know if expansion happens.
+- **GraphQL Federation**: If splitting backend into multiple GraphQL services, Ensar Federation allows composing them into one GraphQL gateway. If PIM and Pricing became separate microservices each with its GraphQL, a gateway could unify the schema. Right now, our app is small enough not to need that, but good to know if expansion happens.
 - **Elasticsearch for Search**: For very advanced product search (especially text search on descriptions, or filtering on many attributes), integrating Elasticsearch or a search engine would improve performance. One could sync product data to ES and search there, then use GraphQL to fetch results (or even integrate via GraphQL).
 - **AI/Machine Learning for Pricing**: Future pricing optimization might involve ML models predicting optimal price. Those could be integrated via a service call to a prediction API that suggests price changes. The app could then auto-update prices or suggest to admin. Not trivial to implement but something in vogue (AI-driven pricing, as seen in some references).
 - **Testing & Quality**: Writing comprehensive tests for each resolver and component is an advanced best practice. Tools:
@@ -2113,7 +2113,7 @@ A few advanced things we haven't implemented but are worth considering:
 
 Some complex issues that might occur and how to handle them:
 
-- **GraphQL Errors**: If a resolver throws an exception (like a DB error or a custom `ForbiddenException`), the GraphQL response will have an `errors` field. Make sure to check those in the client. Apollo by default logs them. You can customize error formatting in Nest to hide internal details in production (so you don't leak stack traces).
+- **GraphQL Errors**: If a resolver throws an exception (like a DB error or a custom `ForbiddenException`), the GraphQL response will have an `errors` field. Make sure to check those in the client. Ensar by default logs them. You can customize error formatting in Nest to hide internal details in production (so you don't leak stack traces).
 - **Database Connection Issues**: If you see timeouts or "too many clients" errors from Postgres:
   - Check connection pool size vs DB max connections. Possibly use a pooler.
   - Ensure connections are closed (TypeORM pool does that automatically, but if using something like Prisma, ensure to destroy properly on shutdown).
