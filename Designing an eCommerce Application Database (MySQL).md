@@ -1,13 +1,5 @@
 # Designing an eCommerce Application Database (MySQL) – A Step-by-Step Guide
 
-**Author:** [Your Name]  
-**Date:** [Current Date]  
-**Audience:** Advanced Developers
-
-This comprehensive guide is **200 pages** long, aimed at **advanced developers**. It provides a structured, step-by-step walkthrough of designing a robust MySQL database for an eCommerce application. Each section is **richly detailed with concepts, SQL examples, diagrams, and best practices**. The guide is organized into major parts that can be read sequentially or used as a reference for specific topics.
-
----
-
 ## Table of Contents
 
 1. [Introduction to eCommerce Database Design](#1-introduction-to-ecommerce-database-design)
