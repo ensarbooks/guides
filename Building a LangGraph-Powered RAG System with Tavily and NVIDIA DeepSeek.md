@@ -1,4 +1,5 @@
 ![](nvidiarag.png)
+
 Guide for advanced developers to learn and implement the provided code. This guide will cover:
 
 - A deep dive into LangGraph, Tavily API, and NVIDIA AI endpoints.
