@@ -9,8 +9,6 @@ Guide for advanced developers to learn and implement the provided code. This gui
 - Debugging strategies and real-world use cases.
 - Exercises, hands-on projects, and potential extensions of the code.
 
-I will let you know when the guide is ready for review.
-
 # **Advanced Developer Guide: Building a LangGraph-Powered RAG System with Tavily and NVIDIA DeepSeek**
 
 ## 1. Introduction and Overview
