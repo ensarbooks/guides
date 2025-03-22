@@ -1,6 +1,6 @@
 # Building a Secure .NET Core API: An OWASP Top 10 Guide
 
-## 1: Introduction to OWASP Top 10 and Secure API Development
+## OWASP Top 10 and Secure API Development
 
 Modern web APIs face constant threats from attackers. The **OWASP Top 10** is a renowned list of the most critical web application security risks that developers must address. For .NET Core API developers, understanding these risks is the first step toward building secure services. Key OWASP categories include **Broken Access Control**, **Injection (e.g., SQL injection)**, **Cross-Site Scripting (XSS)**, **Cross-Site Request Forgery (CSRF)**, **Security Misconfiguration**, **Using Vulnerable Components**, **Identification and Authentication Failures**, and more. Each chapter in this guide will focus on practical steps to mitigate these vulnerabilities in a .NET Core API.
 
@@ -12,7 +12,7 @@ By the end of this guide, you’ll have a clear roadmap for building a .NET Core
 
 ---
 
-## 2: Authentication and Authorization (JWT, OAuth2, IdentityServer)
+## Authentication and Authorization (JWT, OAuth2, IdentityServer)
 
 One of the top OWASP risks is **Broken Access Control**, where users gain privileges they shouldn’t have. In .NET Core, we mitigate this by implementing robust **authentication** (verifying user identity) and **authorization** (enforcing permissions) for every API request. .NET Core provides built-in identity frameworks and integrates well with JWT and OAuth2 standards.
 
@@ -76,7 +76,7 @@ By using established frameworks and proper configuration, your API will require 
 
 ---
 
-## 3: Preventing Injection Attacks (SQL Injection and Command Injection)
+## Preventing Injection Attacks (SQL Injection and Command Injection)
 
 Injection attacks occur when untrusted data is interpreted as code/commands by the system. The most common type is **SQL Injection**, where malicious input tricks the database into executing unintended SQL commands. .NET Core applications, especially those interacting with SQL or NoSQL databases, must be vigilant in how they construct queries. The mantra is simple: **never concatenate user input into commands** – always separate code and data.
 
@@ -148,7 +148,7 @@ By rigorously separating code from data and validating inputs, you effectively n
 
 ---
 
-## 4: Defending Against Cross-Site Scripting (XSS)
+## Defending Against Cross-Site Scripting (XSS)
 
 **Cross-Site Scripting (XSS)** is an injection attack that targets users of your application by injecting malicious scripts into web pages. While XSS primarily concerns web applications (browsers executing script), an API can indirectly be involved – for example, if your API stores or returns data that might be embedded in a web page later. It's important to sanitize and handle data to prevent XSS in any web-related output.
 
@@ -193,7 +193,7 @@ By ensuring any user-supplied content is harmless when delivered to a client, yo
 
 ---
 
-## 5: Cross-Site Request Forgery (CSRF) Protection
+## Cross-Site Request Forgery (CSRF) Protection
 
 **Cross-Site Request Forgery (CSRF)** is an attack where a malicious website tricks a user's browser into making unintended requests to another site where the user is authenticated. Unlike XSS, which exploits script injection, CSRF exploits the browser’s automatic inclusion of credentials (like cookies) in requests. For APIs, CSRF is a concern mainly if the API uses cookie-based auth or other automatic auth mechanisms. Let’s break down how to prevent CSRF in .NET Core.
 
@@ -235,7 +235,7 @@ By understanding your authentication method and applying the correct CSRF defens
 
 ---
 
-## 6: Secure API Design Patterns (Input Validation, CORS, Rate Limiting)
+## Secure API Design Patterns (Input Validation, CORS, Rate Limiting)
 
 Secure design means building your API in a way that proactively reduces risk. This includes validating all inputs, controlling cross-origin requests, and preventing abuse through rate limiting. These practices correspond to OWASP categories like **Insecure Design** (not thinking about threats early) and **Security Misconfiguration** if not set correctly. Let’s explore each.
 
@@ -330,7 +330,7 @@ Next, we’ll focus on securing the data layer – ensuring that data storage an
 
 ---
 
-## 7: Secure Database Access and Data Storage
+## Secure Database Access and Data Storage
 
 Your API’s security is only as strong as the security of the data it stores and retrieves. Weaknesses in database handling can lead to sensitive data exposure or unauthorized access, even if your API code is secure. Here we address OWASP concerns like **Cryptographic Failures** (e.g., improper encryption of data) and aspects of **Security Misconfiguration** at the data layer.
 
@@ -408,7 +408,7 @@ Securing the database layer involves both config and code: use least-privilege a
 
 ---
 
-## 8: Secure Hosting and Deployment
+## Secure Hosting and Deployment
 
 Security isn’t just about your code – it’s also about where and how you deploy that code. Mistakes in server configuration or container setup can introduce vulnerabilities (addressing OWASP **Security Misconfiguration** and **Insecure Deployment** concerns). In this chapter, we cover HTTPS enforcement, container security, and cloud deployment best practices for .NET Core APIs.
 
@@ -476,7 +476,7 @@ By hardening your deployment environment – using HTTPS everywhere ([Security B
 
 ---
 
-## 9: Logging, Monitoring, and Alerting for Security Incidents
+## Logging, Monitoring, and Alerting for Security Incidents
 
 Even with all preventive measures, security incidents can still happen. Timely detection and response is key to minimizing damage. Comprehensive **logging and monitoring** help detect suspicious activities, and **alerting** ensures the right people know about issues in time. OWASP highlights insufficient logging and monitoring as a major issue (OWASP _Security Logging and Monitoring Failures_), which can lead to breaches going unnoticed. Here’s how to do it right in .NET Core.
 
@@ -579,7 +579,7 @@ In summary, treat logging and monitoring as part of the functionality of your AP
 
 ---
 
-## 10: Example Projects and Conclusion
+## Example Projects and Conclusion
 
 We’ve covered a wide array of best practices. To tie it all together, let’s look at how you can see these principles in action and wrap up with final thoughts.
 
@@ -614,4 +614,3 @@ Security is not a one-time task, but an ongoing process. Incorporate security ch
 **10.4 Final Thoughts:**  
 Building a secure .NET Core API involves a multifaceted approach: secure coding, secure configuration, and secure deployment. The OWASP Top 10 serves as a guideline of the most critical areas to focus on, but don’t stop there. Think about the specific threats to your application’s domain as well. By following the practices in this guide—ranging from using JWT auth, to preventing SQL injection, to enabling proper logging—you are significantly hardening your API against common attacks.
 
-Always remember: **Security is everyone’s responsibility**. As an advanced developer, you can lead by example, bake security into the project from day one, and educate your team along the way. With careful design, implementation, and monitoring, your .NET Core API can safely serve its consumers while withstanding the challenges posed by malicious attackers.
