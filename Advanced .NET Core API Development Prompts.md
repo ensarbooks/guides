@@ -1,3 +1,4 @@
+# No
 # Advanced .NET Core API Development Prompts
 
 Below are over 300 advanced technical prompts for developing a complex .NET Core API application. They are organized into key categories commonly encountered in enterprise-grade applications, each targeting experienced developers looking to implement robust solutions.
