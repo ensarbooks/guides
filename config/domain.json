@@ -1,14 +1,20 @@
 [
   {
-    "guid": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
-    "path": "https://github.com/ensarbooks/guides/blob/main/Fullstack%20Azure%20SOC%202.md",
-    "title": "Managed Service Provider (MSP) Training Manual",
+    "guid": "1a2b3c4d-1e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/CLO%20CDO.md",
+    "title": "Training Manual on Collateralized Loan Obligations (CLOs) and Collateralized Debt Obligations (CDOs)",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/ai_0.jpg"
   },
   {
-    "guid": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6q",
-    "path": "https://github.com/ensarbooks/guides/blob/main/Fullstack%20Azure%20SOC%202.md",
-    "title": "Fullstack Azure SOC 2",
+    "guid": "1a2b3c4d-2e6f-7g8h-9i0j-1k2l3m4n5o6q",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/Private%20Equity%20A%20Comprehensive%20Training%20Manual.md",
+    "title": "Private Equity: A Comprehensive Training Manual",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/ai_0.jpg"
+  },
+  {
+    "guid": "1a2b3c4d-3e6f-7g8h-9i0j-1k2l3m4n5o6q",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/Managed%20Service%20Provider%20(MSP)%20Training%20Manual.md",
+    "title": "Managed Service Provider (MSP) Training Manual",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/ai_0.jpg"
   }
   
