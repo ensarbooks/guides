@@ -1,3 +1,4 @@
+## Ensar Solutions
 # **Advanced Guide: Monitoring 100 SQS Queues in a Spring Boot Application**
 
 Monitoring a large number of Amazon SQS queues (e.g., 100 queues) in a Spring Boot application requires a comprehensive strategy. This guide provides a step-by-step approach for **advanced users** to set up monitoring, logging, alerting, performance tuning, scaling, error handling, security, and code integration for SQS. We will use AWS CloudWatch for metrics, integrate logging with CloudTrail and ELK/OpenSearch, configure alerts (SNS, Slack, PagerDuty), optimize performance (polling and batching), implement scaling (auto-scaling consumers and Lambda triggers), handle errors with DLQs and retries, enforce security best practices, and provide Spring Boot code examples with AWS SDK and Spring Cloud AWS. Short, focused sections with clear headings, bullet points, and diagrams are included for clarity.
