@@ -1,6 +1,6 @@
 ## Ensar Solutions
 
-# Advanced Query Writing
+# Advanced SQL Query Writing
 
 # Chapter 1: Advanced Query Writing
 
