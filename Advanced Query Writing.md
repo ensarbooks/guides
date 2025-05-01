@@ -1,3 +1,7 @@
+## Ensar Solutions
+
+# Advanced SQL Query Writing
+
 # Chapter 1: Advanced Query Writing
 
 ## Subqueries, CTEs, and Recursive Queries

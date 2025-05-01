@@ -1,3 +1,5 @@
+## Ensar Solutions
+
 # Advanced Private Equity Concepts for Professionals
 
 **Introduction:**  
