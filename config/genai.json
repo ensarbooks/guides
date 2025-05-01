@@ -1,12 +1,12 @@
 [
   {
-    "guid": "300",
+    "guid": "600",
     "path": "https://github.com/ensarbooks/guides/blob/main/Advanced%20Azure%20AD%20Application%20Integration%20Guide%20(React%20SPA%20%26%20Spring%20Boot%20API).md",
     "title": "Advanced Azure AD Application Integration Guide (React SPA & Spring Boot API)",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a5.jpg"
   },
   {
-    "guid": "301",
+    "guid": "601",
     "path": "https://github.com/ensarbooks/guides/blob/main/Azure%20AD%20App%20Setup.md",
     "title": "Azure AD",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"

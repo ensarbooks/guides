@@ -1,21 +1,21 @@
 [
   {
-    "guid": "1a2b3c4d-5e6f-7g8h-1i0j-1k2l3m4n5o6p",
+    "guid": "200",
     "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/Azure%20AD%20Technical%20Architecture.md",
     "title": "Azure AD Technical Architecture Guide for IT Architects",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/ai_0.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a1.jpg"
   },
   {
-    "guid": "1a2b3c4d-5e6f-2g8h-9i0j-1k2l3m4n5o6q",
+    "guid": "201",
     "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/LinkedIn%20Architecture.md",
     "title": "LinkedIn Architecture: A Comprehensive Software Architect’s Guide",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/ai_0.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a2.jpg"
   },
   {
-    "guid": "1a2b3c4d-5e6f-3g8h-9i0j-1k2l3m4n5o6q",
+    "guid": "202",
     "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/Netflix%20System%20Architecture.md",
     "title": "Netflix System Architecture – A Comprehensive Technical Overview",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/ai_0.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a3.jpg"
   }
   
 ]
