@@ -319,6 +319,13 @@
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c34.jpg"
     },
     {
+        "guid": "729",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/729-Product%20Requirements%20Document%20-%20JobConnect%20%E2%80%93%20Unified%20Job%20Search%20Platform.md",
+        "title": "JobConnect \u2013 Unified Job Search Platform",
+        "tags": "product,job",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c35.jpg"
+    },
+    {
         "guid": "800",
         "path": "https://github.com/ensarbooks/guides/blob/main/security/NIST%20800-53%20Compliance%20Manual%20for%20E-Commerce%20Startups.md",
         "title": "NIST 800-53 Compliance Manual for E-Commerce Startups",
