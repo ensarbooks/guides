@@ -143,7 +143,7 @@
   {
     "guid": "720",
     "path": "https://github.com/ensarbooks/guides/blob/main/products/720-%20CRM%20Software%20Technical%20Architecture%20Guide.md",
-    "title": "CRM Software Technical Architecture Guiden",
+    "title": "CRM Software Technical Architecture Guide",
     "tags":"product,crm",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c20.jpg"
   },
@@ -173,7 +173,35 @@
     "path": "https://github.com/ensarbooks/guides/blob/main/products/724-%20Project%20Management%20Software%20(Enterprise%20SaaS)%20%E2%80%93%20Product%20Requirements%20Document.md",
     "title": "Project Management Software (Enterprise SaaS) – Product Requirements Document",
     "tags":"product,project",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b9.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c30.jpg"
+  },
+  {
+    "guid": "725",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/725-SaaS%20Performance%20Management%20Platform%20%E2%80%93%20Business%20Requirements%20Document.md",
+    "title": "SaaS Performance Management Platform – Business Requirements Document",
+    "tags":"product,performance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c31.jpg"
+  },
+  {
+    "guid": "726",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/726-Product%20Requirements%20Document-%20Investment%20Portfolio%20Management%20SaaS%20Platform.md",
+    "title": "Product Requirements Document: Investment Portfolio Management SaaS Platform",
+    "tags":"product,investment",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c32.jpg"
+  },
+  {
+    "guid": "727",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/727-SaaS%20HR%20Software%20Platform%20%E2%80%93%20Product%20Requirements%20Document%20(PRD).md",
+    "title": "SaaS HR Software Platform – Product Requirements Document (PRD)",
+    "tags":"product,hr",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c33.jpg"
+  },
+  {
+    "guid": "728",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/728-Social%20Media%20Marketing%20for%20SaaS-%20Leveraging%20Automation%20in%20Product%20Development.md",
+    "title": "Social Media Marketing for SaaS: Leveraging Automation in Product Development",
+    "tags":"product,social",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c34.jpg"
   }
   
 
