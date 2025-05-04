@@ -3,6 +3,7 @@
     "guid": "100",
     "path": "https://github.com/ensarbooks/guides/blob/main/Advanced%20AWS%20ECS%20and%20Spring%20Boot%20Troubleshooting%20Guide.md",
     "title": "Advanced AWS ECS and Spring Boot Troubleshooting Guide)",
+    "tags":"aws,ecs",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a4.jpg"
   }
 ]

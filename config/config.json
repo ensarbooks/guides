@@ -3,114 +3,298 @@
         "guid": "200",
         "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/Azure%20AD%20Technical%20Architecture.md",
         "title": "Azure AD Technical Architecture Guide for IT Architects",
+        "tags": "architecture,azure",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a1.jpg"
     },
     {
         "guid": "201",
         "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/LinkedIn%20Architecture.md",
         "title": "LinkedIn Architecture: A Comprehensive Software Architect\u2019s Guide",
+        "tags": "architecture,linkedin",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a2.jpg"
     },
     {
         "guid": "202",
         "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/Netflix%20System%20Architecture.md",
         "title": "Netflix System Architecture \u2013 A Comprehensive Technical Overview",
+        "tags": "architecture,netflix",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a3.jpg"
     },
     {
         "guid": "100",
         "path": "https://github.com/ensarbooks/guides/blob/main/Advanced%20AWS%20ECS%20and%20Spring%20Boot%20Troubleshooting%20Guide.md",
         "title": "Advanced AWS ECS and Spring Boot Troubleshooting Guide)",
+        "tags": "aws,ecs",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a4.jpg"
     },
     {
         "guid": "300",
         "path": "https://github.com/ensarbooks/guides/blob/main/Advanced%20Azure%20AD%20Application%20Integration%20Guide%20(React%20SPA%20%26%20Spring%20Boot%20API).md",
         "title": "Advanced Azure AD Application Integration Guide (React SPA & Spring Boot API)",
+        "tags": "azure,react,spring",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a5.jpg"
     },
     {
         "guid": "301",
         "path": "https://github.com/ensarbooks/guides/blob/main/Azure%20AD%20App%20Setup.md",
         "title": "Azure AD",
+        "tags": "azure,app",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
     },
     {
         "guid": "400",
         "path": "https://github.com/ensarbooks/guides/blob/main/domain/CLO%20CDO.md",
         "title": "Training Manual on Collateralized Loan Obligations (CLOs) and Collateralized Debt Obligations (CDOs)",
+        "tags": "industry,CLO",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a13.jpg"
     },
     {
         "guid": "401",
         "path": "https://github.com/ensarbooks/guides/blob/main/domain/Private%20Equity%20A%20Comprehensive%20Training%20Manual.md",
         "title": "Private Equity: A Comprehensive Training Manual",
+        "tags": "industry,PE",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a8.jpg"
     },
     {
         "guid": "402",
         "path": "https://github.com/ensarbooks/guides/blob/main/domain/Managed%20Service%20Provider%20Training%20Manual.md",
         "title": "Managed Service Provider (MSP) Training Manual",
+        "tags": "industry,MSP",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a9.jpg"
     },
     {
         "guid": "500",
         "path": "https://github.com/ensarbooks/guides/blob/main/Advanced%20Guide%20Enhancing%20Customer%20Order%20and%20Shipment%20Experience%20with%20ReactJS.md",
         "title": "Advanced Guide: Enhancing Customer Order and Shipment Experience with ReactJS",
+        "tags": "fullstck,react",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
     },
     {
         "guid": "501",
         "path": "https://github.com/ensarbooks/guides/blob/main/Advanced%20Guide%20Monitoring%20100%20SQS%20Queues%20in%20a%20Spring%20Boot%20Application.md",
         "title": "Advanced Guide: Monitoring 100 SQS Queues in a Spring Boot Application",
+        "tags": "fullstack,spring",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a11.jpg"
     },
     {
         "guid": "502",
         "path": "https://github.com/ensarbooks/guides/blob/main/Advanced%20Query%20Writing.md",
         "title": "Advanced SQL Query Writing",
+        "tags": "fullstack,sql",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
     },
     {
         "guid": "600",
         "path": "https://github.com/ensarbooks/guides/blob/main/genai/600-Advanced%20Generative%20AI%20Use%20Cases%20for%20Managed%20Service%20Providers%20(MSPs).md",
         "title": "Advanced Generative AI Use Cases for Managed Service Providers (MSPs)",
+        "tags": "genai,MSP",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b0.jpg"
     },
     {
         "guid": "601",
         "path": "https://github.com/ensarbooks/guides/blob/main/genai/601-Generative%20AI%20in%20Capital%20Markets%20Use%20Cases%20and%20Technical%20Approaches.md",
         "title": "Generative AI in Capital Markets: Use Cases and Technical Approaches",
+        "tags": "genai,capitalmarkets",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b1.jpg"
     },
     {
         "guid": "602",
         "path": "https://github.com/ensarbooks/guides/blob/main/genai/602-Generative%20AI%20in%20Human%20Resources%20-%20A%20Comprehensive%20Technical%20Guide%20for%20HR%20Functions.md",
         "title": "Generative AI in Human Resources: A Comprehensive Technical Guide for HR Functions",
+        "tags": "genai,HR",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b2.jpg"
     },
     {
         "guid": "603",
         "path": "https://github.com/ensarbooks/guides/blob/main/genai/603-Generative%20AI%20in%20Private%20Equity%20%E2%80%93%20A%20Technical%20Deep%20Dive%20Across%20the%20Investment%20Lifecycle.md",
         "title": "Generative AI in Private Equity \u2013 A Technical Deep Dive Across the Investment Lifecycle",
+        "tags": "genai,privateequity",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b3.jpg"
     },
     {
         "guid": "604",
         "path": "https://github.com/ensarbooks/guides/blob/main/genai/604-Generative%20AI%20in%20Sales%20%26%20Marketing%20Technical%20Use%20Cases%20and%20Architectures.md",
         "title": "Generative AI in Sales & Marketing: Technical Use Cases and Architectures",
+        "tags": "genai,sales,marketing",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b4.jpg"
     },
     {
         "guid": "700",
         "path": "https://github.com/ensarbooks/guides/blob/main/products/700-Technical%20Requirements%20Document%20Salesforce-like%20CRM%20Platform.md",
         "title": "Technical Requirements Document: Salesforce-like CRM Platform",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b5.jpg"
+        "tags": "product,crm",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c0.jpg"
+    },
+    {
+        "guid": "701",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/701-Contract%20Management%20Software.md",
+        "title": "Contract Management Software Requirements Document",
+        "tags": "product,contract",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+    },
+    {
+        "guid": "702",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/702-SAT%20and%20ACT%20Exams%20A%20Comprehensive%20Guide%20for%20Educational%20Software%20Development.md",
+        "title": "SAT and ACT Exams: A Comprehensive Guide for Educational Software Development",
+        "tags": "product,education",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
+    },
+    {
+        "guid": "703",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/703-Assessment%20Software%20Architecture%20and%20Features.md",
+        "title": "Comprehensive Guide to Assessment Software Architecture and Features",
+        "tags": "product,assessment",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c3.jpg"
+    },
+    {
+        "guid": "704",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/704-Curriculum%20Management%20Software%20A%20Comprehensive%20Technical%20Guide.md",
+        "tags": "product,education",
+        "title": "Curriculum Management Software: A Comprehensive Technical Guide",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c4.jpg"
+    },
+    {
+        "guid": "705",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/705-Project%20Management%20Application%20Requirements%20Specification.md",
+        "title": "Project Management Application Requirements Specification",
+        "tags": "product,project",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c5.jpg"
+    },
+    {
+        "guid": "706",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/706-Email%20Marketing%20Automation%20for%20SaaS%20A%20Comprehensive%20Developer%20Guide.md",
+        "title": "Email Marketing Automation for SaaS: A Comprehensive Developer Guide",
+        "tags": "product,email",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c6.jpg"
+    },
+    {
+        "guid": "707",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/707-Social%20Media%20Marketing%20for%20SaaS%20Leveraging%20Automation%20in%20Product%20Development.md",
+        "title": "Social Media Marketing for SaaS: Leveraging Automation in Product Development",
+        "tags": "product,social",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c7.jpg"
+    },
+    {
+        "guid": "708",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/708-Lead%20Management%20for%20SaaS%20Product%20Development.md",
+        "title": "Lead Management for SaaS Product Development: A Comprehensive Guidebook",
+        "tags": "product,lead",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c8.jpg"
+    },
+    {
+        "guid": "709",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/709-Online%20Learning%20Platform%20Technical%20Architecture.md",
+        "title": "Online Learning Platform Technical Architecture",
+        "tags": "product,learning",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c9.jpg"
+    },
+    {
+        "guid": "710",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/710-CRM%20Software%20Technical%20Architecture%20Guide.md",
+        "title": "CRM Software Technical Architecture Guide",
+        "tags": "product,crm",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
+    },
+    {
+        "guid": "711",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/711-Business%20Requirements%20Document%20Healthcare%20CRM%20Software.md",
+        "title": "Business Requirements Document: Healthcare CRM Software",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c11.jpg"
+    },
+    {
+        "guid": "712",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/712-Curriculum%20Management%20Software%20-%20Business%20Requirements%20Document.md",
+        "title": "Curriculum Management Software \u2013 Business Requirements Document",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c12.jpg"
+    },
+    {
+        "guid": "713",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/713-Document%20Management%20System%20(DMS)%20Product%20Requirements%20Document.md",
+        "title": "Document Management System (DMS) Product Requirements Document",
+        "tags": "product,document",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c13.jpg"
+    },
+    {
+        "guid": "714",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/714%20-%20Project%20Management%20Software%20(Enterprise%20SaaS)%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "Project Management Application Requirements Specification",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c14.jpg"
+    },
+    {
+        "guid": "715",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/715%20-%20Product%20Requirements%20Document%20-%20%20Vendor%20Security%20%26%20Privacy%20Assessment%20Platform.md",
+        "title": "Product Requirements Document: Vendor Security & Privacy Assessment Platform",
+        "tags": "product,security",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c15.jpg"
+    },
+    {
+        "guid": "716",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/716-%20Email%20Marketing%20Automation%20for%20SaaS%20-%20A%20Comprehensive%20Developer%20Guide.md",
+        "title": "Email Marketing Automation for SaaS: A Comprehensive Developer Guide",
+        "tags": "product,email",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
+    },
+    {
+        "guid": "717",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/717-%20Social%20Media%20Marketing%20for%20SaaS%20-%20Leveraging%20Automation%20in%20Product%20Development.md",
+        "title": "Social Media Marketing for SaaS: Leveraging Automation in Product Development",
+        "tags": "product,social",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
+    },
+    {
+        "guid": "718",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/718%20-%20Lead%20Management%20for%20SaaS%20Product%20Development%20-%20A%20Comprehensive%20Guidebook.md",
+        "title": "Lead Management for SaaS Product Development: A Comprehensive Guidebook",
+        "tags": "product,lead",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c18.jpg"
+    },
+    {
+        "guid": "719",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/719-%20Online%20Learning%20Platform%20Technical%20Architecture.md",
+        "title": "Online Learning Platform Technical Architecture",
+        "tags": "product,learning",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c19.jpg"
+    },
+    {
+        "guid": "720",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/720-%20CRM%20Software%20Technical%20Architecture%20Guide.md",
+        "title": "CRM Software Technical Architecture Guiden",
+        "tags": "product,crm",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c20.jpg"
+    },
+    {
+        "guid": "721",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/721-%20Business%20Requirements%20Document-%20Healthcare%20CRM%20Software.md",
+        "title": "Business Requirements Document: Healthcare CRM Software",
+        "tags": "product,healthcare",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c21.jpg"
+    },
+    {
+        "guid": "722",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/722-%20Curriculum%20Management%20Software%20%E2%80%93%20Business%20Requirements%20Document.md",
+        "title": "Curriculum Management Software \u2013 Business Requirements Document",
+        "tags": "product,education",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c22.jpg"
+    },
+    {
+        "guid": "723",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/723-%20Document%20Management%20System%20(DMS)%20Product%20Requirements%20Document.md",
+        "title": "Document Management System (DMS) Product Requirements Document",
+        "tags": "product,document",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c23.jpg"
+    },
+    {
+        "guid": "724",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/724-%20Project%20Management%20Software%20(Enterprise%20SaaS)%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "Project Management Software (Enterprise SaaS) \u2013 Product Requirements Document",
+        "tags": "product,project",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b9.jpg"
     },
     {
         "guid": "800",
         "path": "https://github.com/ensarbooks/guides/blob/main/security/NIST%20800-53%20Compliance%20Manual%20for%20E-Commerce%20Startups.md",
         "title": "NIST 800-53 Compliance Manual for E-Commerce Startups",
+        "tags": "security,compliance",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b6.jpg"
     }
 ]

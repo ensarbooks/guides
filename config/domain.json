@@ -3,18 +3,21 @@
     "guid": "400",
     "path": "https://github.com/ensarbooks/guides/blob/main/domain/CLO%20CDO.md",
     "title": "Training Manual on Collateralized Loan Obligations (CLOs) and Collateralized Debt Obligations (CDOs)",
+    "tags":"industry,CLO",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a13.jpg"
   },
   {
     "guid": "401",
     "path": "https://github.com/ensarbooks/guides/blob/main/domain/Private%20Equity%20A%20Comprehensive%20Training%20Manual.md",
     "title": "Private Equity: A Comprehensive Training Manual",
+    "tags":"industry,PE",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a8.jpg"
   },
   {
     "guid": "402",
     "path": "https://github.com/ensarbooks/guides/blob/main/domain/Managed%20Service%20Provider%20Training%20Manual.md",
     "title": "Managed Service Provider (MSP) Training Manual",
+    "tags":"industry,MSP",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a9.jpg"
   }
   

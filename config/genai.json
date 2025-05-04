@@ -3,30 +3,35 @@
     "guid": "600",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/600-Advanced%20Generative%20AI%20Use%20Cases%20for%20Managed%20Service%20Providers%20(MSPs).md",
     "title": "Advanced Generative AI Use Cases for Managed Service Providers (MSPs)",
+    "tags":"genai,MSP",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b0.jpg"
   },
   {
     "guid": "601",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/601-Generative%20AI%20in%20Capital%20Markets%20Use%20Cases%20and%20Technical%20Approaches.md",
     "title": "Generative AI in Capital Markets: Use Cases and Technical Approaches",
+    "tags":"genai,capitalmarkets",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b1.jpg"
   } ,
   {
     "guid": "602",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/602-Generative%20AI%20in%20Human%20Resources%20-%20A%20Comprehensive%20Technical%20Guide%20for%20HR%20Functions.md",
     "title": "Generative AI in Human Resources: A Comprehensive Technical Guide for HR Functions",
+    "tags":"genai,HR",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b2.jpg"
   },
   {
     "guid": "603",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/603-Generative%20AI%20in%20Private%20Equity%20%E2%80%93%20A%20Technical%20Deep%20Dive%20Across%20the%20Investment%20Lifecycle.md",
     "title": "Generative AI in Private Equity – A Technical Deep Dive Across the Investment Lifecycle",
+    "tags":"genai,privateequity",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b3.jpg"
   },
   {
     "guid": "604",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/604-Generative%20AI%20in%20Sales%20%26%20Marketing%20Technical%20Use%20Cases%20and%20Architectures.md",
     "title": "Generative AI in Sales & Marketing: Technical Use Cases and Architectures",
+    "tags":"genai,sales,marketing",   
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b4.jpg"
   }
   
