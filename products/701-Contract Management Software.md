@@ -1,4 +1,4 @@
-# Contract Management Software Requirements Document (Draft)
+# Contract Management Software Requirements Document
 
 ## 1. Introduction
 
