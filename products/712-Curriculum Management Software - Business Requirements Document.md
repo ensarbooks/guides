@@ -1,7 +1,3 @@
-Great, I’ll draft a comprehensive 200-page business requirements document for a Curriculum Management Software intended for your internal product team. This will cover core features such as curriculum mapping, lesson plan templates, file attachments, curriculum sharing, and system integrations. I’ll structure the document to include user stories, functional and non-functional requirements, workflows, and supporting diagrams where needed.
-
-I’ll get started and let you know once the first portion is ready for your review.
-
 # Curriculum Management Software – Business Requirements Document
 
 ## Executive Summary

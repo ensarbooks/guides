@@ -1,7 +1,3 @@
-Great, I will create a comprehensive 200-page Business Requirements Document (BRD) for CRM software tailored to the healthcare industry. This document will cover all major functional areas, including contact and account management, opportunity tracking, lead handling, email campaigns, reporting, mobile and social integrations, workflow automation, customer support, integration capabilities, and AI features—all contextualized for healthcare use cases like patient relationship management, provider outreach, compliance, and case tracking.
-
-I'll let you know when the document is ready to review.
-
 # Business Requirements Document: Healthcare CRM Software
 
 ## Executive Summary
