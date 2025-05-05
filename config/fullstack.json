@@ -6,16 +6,10 @@
     "tags":"fullstck,react",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
   },
+
   {
     "guid": "501",
-    "path": "https://github.com/ensarbooks/guides/blob/main/Advanced%20Guide%20Monitoring%20100%20SQS%20Queues%20in%20a%20Spring%20Boot%20Application.md",
-    "title": "Advanced Guide: Monitoring 100 SQS Queues in a Spring Boot Application",
-    "tags":"fullstack,spring",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a11.jpg"
-  },
-  {
-    "guid": "502",
-    "path": "https://github.com/ensarbooks/guides/blob/main/Advanced%20Query%20Writing.md",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/502Advanced%20Query%20Writing.md",
     "title": "Advanced SQL Query Writing",
     "tags":"fullstack,sql",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
