@@ -1,4 +1,3 @@
-## Ensar Solutions
 # Advanced Azure AD Application Integration Guide (React SPA & Spring Boot API)
 
 **Introduction**  

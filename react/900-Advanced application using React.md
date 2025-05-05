@@ -1,4 +1,4 @@
-# Introduction
+# Advanced application using React
 
 ## Overview of Technologies Used
 
