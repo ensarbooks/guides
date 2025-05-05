@@ -116,14 +116,14 @@
     "guid": "716",
     "path": "https://github.com/ensarbooks/guides/blob/main/products/716-%20Email%20Marketing%20Automation%20for%20SaaS%20-%20A%20Comprehensive%20Developer%20Guide.md",
     "title": "Email Marketing Automation for SaaS: A Comprehensive Developer Guide",
-     "tags":"product,digitalmarketing", 
+     "tags":"product,healthcare", 
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
   },
   {
     "guid": "717",
     "path": "https://github.com/ensarbooks/guides/blob/main/products/717-%20Social%20Media%20Marketing%20for%20SaaS%20-%20Leveraging%20Automation%20in%20Product%20Development.md",
     "title": "Social Media Marketing for SaaS: Leveraging Automation in Product Development",
-    "tags":"product,digitalmarketing",
+    "tags":"product,healthcare",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
   },
   {
@@ -217,6 +217,76 @@
     "title": "SaaS Billing Software – Product Requirements Document (PRD)",
     "tags":"product,accounting",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c39.jpg"
+  },
+  {
+    "guid": "734",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/734-B2B%20SaaS%20Subscription%20Management%20Platform%20%E2%80%93%20Software%20Requirements.md",
+    "title": "B2B SaaS Subscription Management Platform – Software Requirements Specification",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c40.jpg"
+  },
+  {
+    "guid": "735",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/735-Catalog%20Management%20Software%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Catalog Management Software Platform – Product Requirements Document",
+    "tags":"product,ecommerce",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c41.jpg"
+  },
+  {
+    "guid": "736",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/736-Hotel%20Management%20System%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "SaaS Hotel Management System – Product Requirements Document",
+    "tags":"product,hotel",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c42.jpg"
+  },
+  {
+    "guid": "737",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/737-OKR%20Management%20SaaS%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "OKR Management SaaS Platform – Product Requirements Document (PRD)",
+    "tags":"product,hr",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c43.jpg"
+  },
+  {
+    "guid": "738",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/738-Omnichannel%20Commerce%20SaaS%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Omnichannel Commerce SaaS Platform – Product Requirements Document (PRD)",
+    "tags":"product,ecommerce",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c44.jpg"
+  },
+  {
+    "guid": "739",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/739-Product%20Requirements%20Document%20FashionEMerchandising%20SaaS%20Platform.md",
+    "title": "Product Requirements Document: Fashion EMerchandising SaaS Platform",
+    "tags":"product,ecommerce",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c45.jpg"
+  },
+  {
+    "guid": "740",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/740-Shopping%20Cart%20SaaS%20Product%20Requirements%20Document.md",
+    "title": "Shopping Cart SaaS Product Requirements Document",
+    "tags":"product,ecommerce",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c46.jpg"
+  },
+  {
+    "guid": "741",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/741-Social%20Commerce%20PlatformProduct%20Requirements%20Document.md",
+    "title": "Social Commerce Platform – Product Requirements Document",
+    "tags":"product,ecommerce",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c47.jpg"
+  },
+  {
+    "guid": "742",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/742-Software%20Requirements%20SpecificationECommerce%20AnalyticsSaas.md",
+    "title": "Software Requirements Specification (SRS) – E‑Commerce Analytics SaaS for Shopify",
+    "tags":"product,ecommerce",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c48.jpg"
+  },
+  {
+    "guid": "743",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/743-Survey%20Platform%20%E2%80%93%20Requirements%20Document.md",
+    "title": "SaaS Survey Platform – Requirements Document",
+    "tags":"product,ecommerce",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c49.jpg"
   }
   
 
