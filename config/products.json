@@ -114,15 +114,15 @@
   },
   {
     "guid": "716",
-    "path": "https://github.com/ensarbooks/guides/blob/main/products/716-%20Email%20Marketing%20Automation%20for%20SaaS%20-%20A%20Comprehensive%20Developer%20Guide.md",
-    "title": "Email Marketing Automation for SaaS: A Comprehensive Developer Guide",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/716-Telemedicine%20Platform%20SaaS%20Product%20Requirements%20Document.md",
+    "title": "Telemedicine Platform SaaS Product Requirements Document",
      "tags":"product,healthcare", 
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
   },
   {
     "guid": "717",
-    "path": "https://github.com/ensarbooks/guides/blob/main/products/717-%20Social%20Media%20Marketing%20for%20SaaS%20-%20Leveraging%20Automation%20in%20Product%20Development.md",
-    "title": "Social Media Marketing for SaaS: Leveraging Automation in Product Development",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/717-Clinical%20Documentation%20SaaS%20%E2%80%93%20Software%20Requirements%20Document.md",
+    "title": "Clinical Documentation SaaS – Software Requirements Document",
     "tags":"product,healthcare",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
   },
