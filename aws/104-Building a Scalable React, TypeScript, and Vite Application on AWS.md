@@ -1,8 +1,5 @@
 # Building a Scalable React, TypeScript, and Vite Application on AWS – A Comprehensive Guide
 
-**Author:** [Your Name]  
-**Last Updated:** February 24, 2025
-
 ## Introduction
 
 Building a web application that can scale to serve **1 million users** requires careful planning at every layer—from how you set up your React frontend, to the AWS architecture that will support massive traffic, to the processes that ensure continuous delivery, performance optimization, security, and cost efficiency. This guide provides a step-by-step walkthrough for **advanced developers** to build a **production-ready** React application (using **Vite** and **TypeScript**) and deploy it on AWS with an architecture capable of scaling to millions of users. We’ll cover everything from project setup and best practices in the codebase, to designing an AWS cloud architecture with **scalable services**, infrastructure as code, CI/CD pipelines, performance tuning, security hardening, monitoring, and cost optimization.

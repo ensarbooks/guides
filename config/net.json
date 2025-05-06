@@ -1,0 +1,18 @@
+[
+  {
+    "guid": "1100",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1100-Advanced%20Guide%20to%20C%23%2C%20ASP.NET%20MVC%20Web%20Forms%2C%20Web%20API%2C%20and%20SQL%20Server.md",
+    "title": "Advanced Guide to C#, ASP.NET MVC/Web Forms, Web API, and SQL Server",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
+  },
+
+  {
+    "guid": "1101",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1101-Building%20a%20.NET%C2%A07%20Application.md",
+    "title": "Building a .NET 7 Application – Advanced Step-by-Step Guide",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
+  }
+  
+]
