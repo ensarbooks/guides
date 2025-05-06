@@ -1,7 +1,3 @@
-Great. I’ll begin preparing a comprehensive 200-page product requirements document for an Accounts Receivable (AR) SaaS application tailored for the product team.
-This document will outline detailed functional and non-functional requirements, user roles and workflows, automation logic, UI/UX expectations, reporting needs, and integration points with accounting and ERP systems.
-I'll let you know as soon as it's ready for your review.
-
 # Accounts Receivable SaaS Application – Product Requirements Document
 
 **Document Version:** 1.0

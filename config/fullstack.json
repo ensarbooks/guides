@@ -4,15 +4,135 @@
     "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/500-Advanced%20Guide%20Enhancing%20Customer%20Order%20and%20Shipment%20Experience%20with%20ReactJS.md",
     "title": "Advanced Guide: Enhancing Customer Order and Shipment Experience with ReactJS",
     "tags":"fullstck,react",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
   },
 
   {
     "guid": "501",
-    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/502Advanced%20Query%20Writing.md",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/501-Advanced%20Query%20Writing.md",
     "title": "Advanced SQL Query Writing",
     "tags":"fullstack,sql",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
+  },
+   {
+    "guid": "502",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/502-Building%20a%20Content%20Management%20System%20with%20Spring%20Boot%2C%20React.js%2C%20and%20MySQL.md",
+    "title": "Building a Content Management System with Spring Boot, React.js, and MySQL",
+    "tags":"fullstck,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c3.jpg"
+  },
+
+  {
+    "guid": "503",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/503-Building%20a%20Deals%20Management%20System%20with%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+    "title": "Building a Deals Management System with React, Spring Boot, and MySQL",
+    "tags":"fullstack,sql",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c4.jpg"
+  },
+   {
+    "guid": "504",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/504-Building%20a%20Full-Stack%20Application%20with%20React%2C%20NestJS%2C%20GraphQL%20%26%20PostgreSQL%20(Step-by-Step%20Guide).md",
+    "title": "Building a Full-Stack Application with React, NestJS, GraphQL & PostgreSQL (Step-by-Step Guide)",
+    "tags":"fullstck,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c5.jpg"
+  },
+
+  {
+    "guid": "505",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/505-Building%20a%20Full-Stack%20Node.js%20Application.md",
+    "title": "Building a Full-Stack Node.js Application: An Advanced Step-by-Step Guide",
+    "tags":"fullstack,sql",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c6.jpg"
+  },
+   {
+    "guid": "506",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/506-Building%20a%20Full-Stack%20Spring%20Boot%20and%20React%20Application.md",
+    "title": "Building a Full-Stack Spring Boot and React Application: Step-by-Step Guide",
+    "tags":"fullstck,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c7.jpg"
+  },
+
+  {
+    "guid": "507",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/507-Building%20a%20Multi-Tenant%20Application%20with%20React%2C%20TypeScript%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+    "title": "Building a Multi-Tenant Application with React, TypeScript, Spring Boot, and MySQL",
+    "tags":"fullstack,sql",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c8.jpg"
+  },
+   {
+    "guid": "508",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/508-Building%20a%20React%20%2B%20TypeScript%20%2B%20Vite%20Application%20with%20Google%20Analytics%20and%20Data%20Tracking.md",
+    "title": "Building a React + TypeScript + Vite Application with Google Analytics and Data Tracking",
+    "tags":"fullstck,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c9.jpg"
+  },
+
+  {
+    "guid": "509",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/509-Building%20a%20ReactJS%20and%20Spring%20Boot%20Application%20with%20a%20Real-Time%20Notification%20System.md",
+    "title": "Building a ReactJS and Spring Boot Application with a Real-Time Notification System",
+    "tags":"fullstack,sql",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
+  },
+   {
+    "guid": "510",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/510-Firebase%20Application%20Setup%20with%20Advanced%20Authentication%20and%20Multi-Tenancy.md",
+    "title": "Firebase Application Setup with Advanced Authentication and Multi-Tenancy",
+    "tags":"fullstck,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c11.jpg"
+  },
+
+  {
+    "guid": "511",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/511-Full-Stack%20Development%20and%20ISO%2027001%20Azure.md",
+    "title": "Full-Stack Development and ISO 27001 Azure",
+    "tags":"fullstack,sql",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c12.jpg"
+  },
+   {
+    "guid": "512",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/512-Fullstack%20AWS%20ISO%2027001.md",
+    "title": "Introduction",
+    "tags":"fullstck,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c13.jpg"
+  },
+
+  {
+    "guid": "513",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/513-Fullstack%20AWS%20SOC2.md",
+    "title": "Introduction",
+    "tags":"fullstack,sql",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c14.jpg"
+  },
+    {
+    "guid": "514",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/514-Google%20Login%20with%20Firebase%2C%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+    "title": "Google Login with Firebase, React, Spring Boot, and MySQL – Step-by-Step Guide",
+    "tags":"fullstck,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c15.jpg"
+  },
+
+  {
+    "guid": "515",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/515-Implementing%20Google%20Login%20Authentication%20with%20Firebase%20in%20React%2C%20NestJS%2C%20and%20PostgreSQL.md",
+    "title": "Implementing Google Login Authentication with Firebase in React, NestJS, and PostgreSQL: A Step-by-Step Guide",
+    "tags":"fullstack,sql",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
+  },
+    {
+    "guid": "516",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/516-Implementing%20Google%20Login%20with%20Firebase%20Authentication%20in%20a%20React%20(.TS)%20%2B%20.NET%20Core%20%2B%20PostgreSQL%20App.md",
+    "title": "Implementing Google Login with Firebase Authentication in a React (.TS) + .NET Core + PostgreSQL App",
+    "tags":"fullstck,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
+  },
+
+  {
+    "guid": "517",
+    "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/517-Introduction%20to%20NestJS%20and%20Secure%20Development.md",
+    "title": "Introduction to NestJS and Secure Development",
+    "tags":"fullstack,sql",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c18.jpg"
   }
-  
+   
 ]

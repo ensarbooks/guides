@@ -287,6 +287,76 @@
     "title": "SaaS Survey Platform – Requirements Document",
     "tags":"product,ecommerce",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c49.jpg"
+  },
+  {
+    "guid": "744",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/744-Accounting%20Practice%20Management%20(APM)%20Product%20Requirements%20Document.md",
+    "title": "Accounting Practice Management (APM) Product Requirements Document",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c46.jpg"
+  },
+  {
+    "guid": "745",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/745-Accounts%20Receivable%20SaaS%20Application%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Accounts Receivable SaaS Application – Product Requirements Document",
+   "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c47.jpg"
+  },
+  {
+    "guid": "746",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/746-SaaS%20Order%20Management%20System%20(OMS)%20%E2%80%93%20Product%20Requirements%20Document%20(PRD).md",
+    "title": "SaaS Order Management System (OMS) – Product Requirements Document (PRD)",
+   "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c48.jpg"
+  },
+  {
+    "guid": "747",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/747-BudgetPro%20Budgeting%20%26%20Forecasting%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Financial Audit SaaS Application – Product Requirements Document",
+   "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c49.jpg"
+  },
+  {
+    "guid": "748",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/748-Financial%20Audit%20SaaS%20Application%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Shopping Cart SaaS Product Requirements Document",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c50.jpg"
+  },
+  {
+    "guid": "749",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/749-Professional%20Tax%20Software%20%E2%80%93%20Product%20Requirements%20Document%20(PRD).md",
+    "title": "Professional Tax Software – Product Requirements Document (PRD)",
+   "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+  },
+  {
+    "guid": "750",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/750-Accounts%20Payable%20Automation%20SaaS%20Application%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Accounts Payable Automation SaaS Application – Product Requirements Document",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+  },
+  {
+    "guid": "751",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/751-SaaS%20Cash%20Flow%20Management%20Application%20%E2%80%93%20Product%20Requirements%20Document%20(PRD).md",
+    "title": "SaaS Cash Flow Management Application – Product Requirements Document (PRD)",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c53.jpg"
+  },
+  {
+    "guid": "752",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/740-Shopping%20Cart%20SaaS%20Product%20Requirements%20Document.md",
+    "title": "Shopping Cart SaaS Product Requirements Document",
+   "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c54.jpg"
+  },
+  {
+    "guid": "753",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/752-Product%20Requirements%20Document-%20SaaS%20Corporate%20Tax%20Management%20Application.md",
+    "title": "Product Requirements Document: SaaS Corporate Tax Management Application",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c55.jpg"
   }
   
 
