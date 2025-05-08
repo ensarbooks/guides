@@ -983,6 +983,83 @@
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c55.jpg"
     },
     {
+        "guid": "754",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/754-SaaS%20Revenue%20Management%20Application%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "SaaS Revenue Management Application \u2013 Product Requirements Document",
+        "tags": "product,accounting",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c49.jpg"
+    },
+    {
+        "guid": "755",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/755-Marketing%20Account%20Intelligence%20Platform%20%E2%80%93%20Product%20Requirements%20and%20Specification.md",
+        "title": "Marketing Account Intelligence Platform \u2013 Product Requirements and Specification",
+        "tags": "product,accounting",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c50.jpg"
+    },
+    {
+        "guid": "756",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/756-SaaS%20Content%20Distribution%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "SaaS Content Distribution Platform \u2013 Product Requirements Document",
+        "tags": "product,accounting",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+        "guid": "757",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/757-Personalization%20Application%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "Personalization Application \u2013 Product Requirements Document",
+        "tags": "product,accounting",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+        "guid": "758",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/758-Software%20Requirements%20Specification%20for%20IncentiveHub%20Rewards%20Platform.md",
+        "title": "Software Requirements Specification for IncentiveHub Rewards Platform",
+        "tags": "product,accounting",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c53.jpg"
+    },
+    {
+        "guid": "759",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/759-SaaS%20Equity%20Management%20Application%20Detailed%20Requirements%20Document.md",
+        "title": "SaaS Equity Management Application: Detailed Requirements Document",
+        "tags": "product,accounting",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c54.jpg"
+    },
+    {
+        "guid": "760",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/760-BrandPulse%20360%20%E2%80%93%20Product%20Requirements%20Document%20(PRD).md",
+        "title": "BrandPulse 360 \u2013 Product Requirements Document (PRD)",
+        "tags": "product,digitalmarketing",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c55.jpg"
+    },
+    {
+        "guid": "761",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/761-Content%20Creation%20SaaS%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "Content Creation SaaS Platform \u2013 Product Requirements Document",
+        "tags": "product,digitalmarketing",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c49.jpg"
+    },
+    {
+        "guid": "762",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/762-ACT%20Exam%20Training%20SaaS%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "ACT Exam Training SaaS Platform \u2013 Product Requirements Document",
+        "tags": "product,education",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c50.jpg"
+    },
+    {
+        "guid": "763",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/763-AI-Powered%20ACT%20Prep%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "AI-Powered ACT Prep Platform \u2013 Product Requirements Document",
+        "tags": "product,education",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+        "guid": "764",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/764-SaaS%20Venture%20Capital%20Management%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "SaaS Venture Capital Management Platform \u2013 Product Requirements Document",
+        "tags": "product,finance",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
         "guid": "900",
         "path": "https://github.com/ensarbooks/guides/blob/main/react/900-Advanced%20application%20using%20React.md",
         "title": "Advanced application using React",
@@ -1142,6 +1219,20 @@
         "title": "NIST 800-53 Compliance Manual for E-Commerce Startups",
         "tags": "security,compliance",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d29.jpg"
+    },
+    {
+        "guid": "801",
+        "path": "https://github.com/ensarbooks/guides/blob/main/security/801-SaaS%20Product%20Application%20Requirements%20for%20NIST%20Audit%20Compliance.md",
+        "title": "SOC 2 Compliance Requirements Playbook for SaaS Product Managers",
+        "tags": "security,compliance",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d30.jpg"
+    },
+    {
+        "guid": "802",
+        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/802-SOC%202%20Compliance%20Requirements%20Playbook%20for%20SaaS%20Product%20Managers.md",
+        "title": "SOC 2 Compliance Requirements Playbook for SaaS Product Managers",
+        "tags": "security,compliance",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d31.jpg"
     },
     {
         "guid": "1000",
@@ -1320,5 +1411,19 @@
         "title": "Introduction to Observability",
         "tags": "springboot,react",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d55.jpg"
+    },
+    {
+        "guid": "1200",
+        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1200-Diagnosing%20and%20Preventing%20Unexpected%20Restarts%20of%20Java%20Apps%20on%20AWS%20ECS%20(EC2).md",
+        "title": "Diagnosing and Preventing Unexpected Restarts of Java Apps on AWS ECS (EC2)",
+        "tags": "trobleshoot,aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+        "guid": "1201",
+        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1201-Troubleshooting%20Containerized%20Java%20Applications%20on%20AWS%20ECS%20(EC2%20Launch%20Type).md",
+        "title": "Troubleshooting Containerized Java Applications on AWS ECS (EC2 Launch Type)",
+        "tags": "trobleshoot,aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
     }
 ]

@@ -5,5 +5,19 @@
     "title": "NIST 800-53 Compliance Manual for E-Commerce Startups",
     "tags":"security,compliance",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d29.jpg"
-  }
+  },
+  {
+    "guid": "801",
+    "path": "https://github.com/ensarbooks/guides/blob/main/security/801-SaaS%20Product%20Application%20Requirements%20for%20NIST%20Audit%20Compliance.md",
+    "title": "SOC 2 Compliance Requirements Playbook for SaaS Product Managers",
+    "tags":"security,compliance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d30.jpg"
+  },
+    {
+      "guid": "802",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/802-SOC%202%20Compliance%20Requirements%20Playbook%20for%20SaaS%20Product%20Managers.md",
+      "title": "SOC 2 Compliance Requirements Playbook for SaaS Product Managers",
+      "tags":"security,compliance",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d31.jpg"
+    }
 ]

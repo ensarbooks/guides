@@ -1,24 +1,17 @@
 [
     {
       "guid": "1200",
-      "path": "https://github.com/ensarbooks/guides/blob/main/genai/600-Advanced%20Generative%20AI%20Use%20Cases%20for%20Managed%20Service%20Providers%20(MSPs).md",
-      "title": "Advanced Generative AI Use Cases for Managed Service Providers (MSPs)",
-      "tags": "Generative AI",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1200-Diagnosing%20and%20Preventing%20Unexpected%20Restarts%20of%20Java%20Apps%20on%20AWS%20ECS%20(EC2).md",
+      "title": "Diagnosing and Preventing Unexpected Restarts of Java Apps on AWS ECS (EC2)",
+      "tags": "trobleshoot,aws,ecs",
       "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
     },
     {
       "guid": "1201",
-      "path": "https://github.com/ensarbooks/guides/blob/main/genai/601-Generative%20AI%20in%20Capital%20Markets%20Use%20Cases%20and%20Technical%20Approaches.md",
-      "title": "Generative AI in Capital Markets: Use Cases and Technical Approaches",
-      "tags": "Generative AI",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1201-Troubleshooting%20Containerized%20Java%20Applications%20on%20AWS%20ECS%20(EC2%20Launch%20Type).md",
+      "title": "Troubleshooting Containerized Java Applications on AWS ECS (EC2 Launch Type)",
+      "tags": "trobleshoot,aws,ecs",
       "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
-    },
-    {
-      "guid": "1202",
-      "path": "https://github.com/ensarbooks/guides/blob/main/genai/602-Generative%20AI%20in%20Human%20Resources%20-%20A%20Comprehensive%20Technical%20Guide%20for%20HR%20Functions.md",
-      "title": "Generative AI in Human Resources: A Comprehensive Technical Guide for HR Functions",
-      "tags": "Generative AI",
-      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c53.jpg"
     }
    
   

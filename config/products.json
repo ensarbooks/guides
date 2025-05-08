@@ -357,7 +357,84 @@
     "title": "SaaS Revenue Management Application – Product Requirements Document",
     "tags":"product,accounting",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c55.jpg"
-  }
+  },
+  {
+    "guid": "754",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/754-SaaS%20Revenue%20Management%20Application%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "SaaS Revenue Management Application – Product Requirements Document",
+   "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c49.jpg"
+  },
+  {
+    "guid": "755",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/755-Marketing%20Account%20Intelligence%20Platform%20%E2%80%93%20Product%20Requirements%20and%20Specification.md",
+    "title": "Marketing Account Intelligence Platform – Product Requirements and Specification",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c50.jpg"
+  },
+  {
+    "guid": "756",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/756-SaaS%20Content%20Distribution%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "SaaS Content Distribution Platform – Product Requirements Document",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+  },
+  {
+    "guid": "757",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/757-Personalization%20Application%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Personalization Application – Product Requirements Document",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+  },
+  {
+    "guid": "758",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/758-Software%20Requirements%20Specification%20for%20IncentiveHub%20Rewards%20Platform.md",
+    "title": "Software Requirements Specification for IncentiveHub Rewards Platform",
+    "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c53.jpg"
+  },
+  {
+    "guid": "759",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/759-SaaS%20Equity%20Management%20Application%20Detailed%20Requirements%20Document.md",
+    "title": "SaaS Equity Management Application: Detailed Requirements Document",
+   "tags":"product,accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c54.jpg"
+  },
+  {
+    "guid": "760",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/760-BrandPulse%20360%20%E2%80%93%20Product%20Requirements%20Document%20(PRD).md",
+    "title": "BrandPulse 360 – Product Requirements Document (PRD)",
+    "tags":"product,digitalmarketing",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c55.jpg"
+  },
   
+  {
+    "guid": "761",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/761-Content%20Creation%20SaaS%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Content Creation SaaS Platform – Product Requirements Document",
+   "tags":"product,digitalmarketing",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c49.jpg"
+  },
+  {
+    "guid": "762",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/762-ACT%20Exam%20Training%20SaaS%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "ACT Exam Training SaaS Platform – Product Requirements Document",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c50.jpg"
+  },
+  {
+    "guid": "763",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/763-AI-Powered%20ACT%20Prep%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "AI-Powered ACT Prep Platform – Product Requirements Document",
+   "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+  },
+  {
+    "guid": "764",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/764-SaaS%20Venture%20Capital%20Management%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "SaaS Venture Capital Management Platform – Product Requirements Document",
+    "tags":"product,finance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+  }
 
 ]
