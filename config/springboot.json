@@ -3,61 +3,192 @@
     "guid": "1000",
     "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1000-Advanced%20Spring%20Boot%20and%20MongoDB.md",
     "title": "Advanced Spring Boot and MongoDB: A Comprehensive Step-by-Step Guide",
-    "tags":"springboot,react",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d30.jpg"
   },
 
   {
     "guid": "1001",
     "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1001-Advanced%20Spring%20Boot%20Application%20Development.md",
     "title": "Advanced Spring Boot Application Development: A Step-by-Step Guide",
-    "tags":"springboot,react",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d31.jpg"
   },
   {
-    "guid": "1000",
-    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1000-Advanced%20Spring%20Boot%20and%20MongoDB.md",
-    "title": "Advanced Spring Boot and MongoDB: A Comprehensive Step-by-Step Guide",
-    "tags":"springboot,react",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
+    "guid": "1002",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1002-Building%20a%20Secure%20Spring%20Boot%20Application.md",
+    "title": "Building a Secure Spring Boot Application (Step-by-Step Guide)",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d32.jpg"
   },
 
   {
-    "guid": "1001",
-    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1001-Advanced%20Spring%20Boot%20Application%20Development.md",
-    "title": "Advanced Spring Boot Application Development: A Step-by-Step Guide",
-    "tags":"springboot,react",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
+    "guid": "1003",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1003-Building%20a%20Spring%20Boot%20Application%20with%20Micrometer%20Observability.md",
+    "title": "Building a Spring Boot Application with Micrometer Observability – A Step-by-Step Guide",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d33.jpg"
   },
   {
-    "guid": "1000",
-    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1000-Advanced%20Spring%20Boot%20and%20MongoDB.md",
-    "title": "Advanced Spring Boot and MongoDB: A Comprehensive Step-by-Step Guide",
+    "guid": "1004",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1004-Building%20an%20Advanced%20Contact%20Management%20System%20with%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+    "title": "Building an Advanced Contact Management System with React, Spring Boot, and MySQL",
     "tags":"springboot,react",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
-  },
-
-  {
-    "guid": "1001",
-    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1001-Advanced%20Spring%20Boot%20Application%20Development.md",
-    "title": "Advanced Spring Boot Application Development: A Step-by-Step Guide",
-    "tags":"springboot,react",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
-  },
-  {
-    "guid": "1000",
-    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1000-Advanced%20Spring%20Boot%20and%20MongoDB.md",
-    "title": "Advanced Spring Boot and MongoDB: A Comprehensive Step-by-Step Guide",
-    "tags":"springboot,react",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d34.jpg"
   },
 
   {
-    "guid": "1001",
-    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1001-Advanced%20Spring%20Boot%20Application%20Development.md",
-    "title": "Advanced Spring Boot Application Development: A Step-by-Step Guide",
+    "guid": "1005",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1005-Building%20an%20Advanced%20Microservices%20Application%20with%20Spring%20Boot%2C%20AWS%20SQS%2C%20Firebase%2C%20and%20MySQL.md",
+    "title": "Building an Advanced Microservices Application with Spring Boot, AWS SQS, Firebase, and MySQL: A Step-by-Step Guide",
     "tags":"springboot,react",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d35.jpg"
+  },
+  {
+    "guid": "1006",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1006-Building%20an%20Advanced%20React%20Native%20Video%20%26%20Audio%20Recorder%20with%20AWS%20S3%20Integration.md",
+    "title": "Building an Advanced React Native Video & Audio Recorder with AWS S3 Integration",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d36.jpg"
+  },
+
+  {
+    "guid": "1007",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1007-Building%20an%20Advanced%20Spring%20Boot%20Application%20A%20Step-by-Step%20Guide.md",
+    "title": "Building an Advanced Spring Boot Application: A Step-by-Step Guide",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d37.jpg"
+  },
+   {
+    "guid": "1008",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1008-Building%20an%20E-Commerce%20Application%20with%20Spring%20Boot%2C%20Apache%20Kafka%2C%20and%20MySQL.md",
+    "title": "Building an E-Commerce Application with Spring Boot, Apache Kafka, and MySQL",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d38.jpg"
+  },
+
+  {
+    "guid": "1009",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1009-Building%20an%20Invoice%20Management%20System%20with%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+    "title": "Building an Invoice Management System with React, Spring Boot, and MySQL",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d39.jpg"
+  },
+   {
+    "guid": "1010",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1010-Building%20Complex%20Spring%20Boot%20Microservices%20A%20Step-by-Step%20Advanced%20Guide.md",
+    "title": "Building Complex Spring Boot Microservices: A Step-by-Step Advanced Guide",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d40.jpg"
+  },
+
+  {
+    "guid": "1011",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1011-Building%20Spring%20Boot%20Microservices%20with%20Elasticsearch%2C%20Kibana%2C%20and%20More.md",
+    "title": "Building Spring Boot Microservices with Elasticsearch, Kibana, and More",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d41.jpg"
+  },
+   {
+    "guid": "1012",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1012-Developing%20a%20Chrome%20Extension%20to%20Extract%20LinkedIn%20Profile%20Information%20Step-by-Step%20Guide.md",
+    "title": "Developing a Chrome Extension to Extract LinkedIn Profile Information: Step-by-Step Guide",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d42.jpg"
+  },
+
+  {
+    "guid": "1013",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1013-Developing%20a%20Complex%20E-commerce%20Application%20with%20Spring%20Boot%20Microservices.md",
+    "title": "Introduction to Microservices Architecture in E-commerce",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d43.jpg"
+  },
+   {
+    "guid": "1014",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1014-Full%20Stack%20Application%20Guide%20React%20Frontend%20%26%20Spring%20Boot%20Backend.md",
+    "title": "Full-Stack Application Guide: React Frontend & Spring Boot Backend",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d44.jpg"
+  },
+
+  {
+    "guid": "1015",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1015-Introduction%20to%20Observability.md",
+    "title": "Introduction to Observability",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d45.jpg"
+  },
+   {
+    "guid": "1016",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1016-Logging%20Best%20Practices%20in%20Spring%20Boot%20and%20Spring%20Applications.md",
+    "title": "Logging Best Practices in Spring Boot and Spring Applications (A Software Architect’s Guide)",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d46.jpg"
+  },
+
+  {
+    "guid": "1017",
+    "path": "hhttps://github.com/ensarbooks/guides/blob/main/springboot/1017-Mastering%20Event-Driven%20Architecture%20with%20Spring%20Boot%20and%20AWS%20SQS.md",
+    "title": "Mastering Event-Driven Architecture with Spring Boot and AWS SQS",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d47.jpg"
+  },
+   {
+    "guid": "1018",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1018-Redis%20and%20Spring%20Boot.md",
+    "title": "Redis and Spring Boot: An Advanced Integration Guide",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d48.jpg"
+  },
+
+  {
+    "guid": "1019",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1019-Spring%20Boot%20Application%20Development%20and%20AWS%20ECS%20Deployment.md",
+    "title": "Spring Boot Application Development and AWS ECS Deployment (Advanced Guide)",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d49.jpg"
+  },
+     {
+    "guid": "1020",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1020-Spring%20Boot%20Application%20Logging%20with%20Filebeat%2C%20Elasticsearch%2C%20and%20Kibana%20%E2%80%93%20A%20Step-by-Step%20Guide.md",
+    "title": "Spring Boot Application Logging with Filebeat, Elasticsearch, and Kibana – A Step-by-Step Guide",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d50.jpg"
+  },
+
+  {
+    "guid": "1021",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1021-Spring%20Boot%20AWS%20ECS%20HTTPS.md",
+    "title": "Project Setup",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d51.jpg"
+  },
+     {
+    "guid": "1022",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1022-Spring%20Boot%20Complex%20CRUD%20Guide.md",
+    "title": "Project Setup & Configuration",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d52.jpg"
+  },
+
+  {
+    "guid": "1023",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1023-Spring%20Boot%20Dependency%20License%20Scanner.md",
+    "title": "Step-by-Step Guide: Spring Boot Dependency License Scanner",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d53.jpg"
+  },
+     {
+    "guid": "1024",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1024-Spring%20Boot%20Implementation%20Guide%20for%20Workflow%20Schema.md",
+    "title": "Advanced Integration Guide: React, TypeScript & Material UI with a MySQL API",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d54.jpg"
+  },
+
+  {
+    "guid": "1025",
+    "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1025-spring%20boot%20observability.md",
+    "title": "Introduction to Observability",
+    "tags":"springboot,react",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d55.jpg"
   }
   
 ]

@@ -346,15 +346,15 @@
   },
   {
     "guid": "752",
-    "path": "https://github.com/ensarbooks/guides/blob/main/products/740-Shopping%20Cart%20SaaS%20Product%20Requirements%20Document.md",
-    "title": "Shopping Cart SaaS Product Requirements Document",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/752-Product%20Requirements%20Document-%20SaaS%20Corporate%20Tax%20Management%20Application.md",
+    "title": "Product Requirements Document: SaaS Corporate Tax Management Application",
    "tags":"product,accounting",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c54.jpg"
   },
   {
     "guid": "753",
-    "path": "https://github.com/ensarbooks/guides/blob/main/products/752-Product%20Requirements%20Document-%20SaaS%20Corporate%20Tax%20Management%20Application.md",
-    "title": "Product Requirements Document: SaaS Corporate Tax Management Application",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/753-SaaS%20Revenue%20Management%20Application%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "SaaS Revenue Management Application – Product Requirements Document",
     "tags":"product,accounting",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c55.jpg"
   }

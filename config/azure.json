@@ -4,98 +4,110 @@
     "path": "https://github.com/ensarbooks/guides/blob/main/azure/300-Advanced%20Azure%20AD%20Application%20Integration%20Guide%20(React%20SPA%20%26%20Spring%20Boot%20API).md",
     "title": "Advanced Azure AD Application Integration Guide (React SPA & Spring Boot API)",
     "tags":"azure,react,spring",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a5.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
   },
   {
     "guid": "301",
     "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
     "title": "Azure AD",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
   },
   {
     "guid": "302",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/302-Azure%20Building%20a%20Full-Stack%20Application%20with%20React%20and%20.NET%20Core.md",
+    "title": "Building a Full-Stack Application with React and .NET Core",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c3.jpg"
   },
   {
     "guid": "303",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/303-Building%20a%20HIPAA-Compliant%20Full-Stack%20Application%20with%20React%2C%20Spring%20Boot%2C%20MySQL%2C%20and%20Azure.md",
+    "title": "Building a HIPAA-Compliant Full-Stack Application with React, Spring Boot, MySQL, and Azure",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c4.jpg"
   },
   {
     "guid": "304",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
-    "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/304-Deploying%20React%20%26%20Spring%20Boot%20on%20Azure%20VMSS%20with%20Docker%20and%20Terraform.md",
+    "tags":"Deploying React & Spring Boot on Azure VMSS with Docker and Terraform",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c5.jpg"
   },
   {
-    "guid": "301",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
-    "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "guid": "305",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/305-Deploying%20React%20and%20.NET%20Core%20Apps%20as%20Docker%20Containers%20on%20Azure%20with%20Terraform.md",
+    "tags":"Deploying React and .NET Core Apps as Docker Containers on Azure with Terraform",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c6.jpg"
   },
   {
-    "guid": "301",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "guid": "306",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/306-Deploying%20React%20and%20.NET%20Core%20Docker%20Applications%20on%20Azure%20VMSS%20with%20Terraform.md",
+    "title": "Deploying React and .NET Core Docker Applications on Azure VMSS with Terraform",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c7.jpg"
   },
   {
-    "guid": "301",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "guid": "307",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/307-Deploying%20React%20and%20Spring%20Boot%20Applications%20to%20Azure%20Web%20Apps%20with%20Docker%20and%20Terraform.md",
+    "title": "Deploying React and Spring Boot Applications to Azure Web Apps with Docker and Terraform: An Advanced Guide",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c8.jpg"
   },
   {
-    "guid": "301",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "guid": "308",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/308-Developing%20Applications%20on%20Microsoft%20Azure%20Cloud%20An%20Advanced%20Guide.md",
+    "title": "Developing Applications on Microsoft Azure Cloud: An Advanced Guide",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c9.jpg"
   },
   {
-    "guid": "301",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "guid": "309",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/309-Implementing%20Azure%20AD%20Authentication%20with%20React%2C%20NestJS%20%26%20PostgreSQL%20%E2%80%93%20A%20Step-by-Step%20Guide.md",
+    "title": "Implementing Azure AD Authentication with React, NestJS & PostgreSQL – A Step-by-Step Guide",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
   },
   {
-    "guid": "301",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "guid": "310",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/310-Introduction%20to%20Azure%20AD%20B2C.md",
+    "title": "Introduction to Azure AD B2C",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c11.jpg"
   },{
-    "guid": "301",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "guid": "311",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/311-MySQL%20in%20Azure.md",
+    "title": "Introduction to MySQL in Azure",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c12.jpg"
   },
   {
-    "guid": "301",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "guid": "312",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/312-React%20Azure%20HTTPS%20Deployment.md",
+    "title": "React Azure HTTPS Deployment",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c13.jpg"
+  },
+{
+    "guid": "313",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/314-React%20Spring%20Boot%20MySQL%20Azure%20AD%20Authentication.md",
+    "title": "Introduction to Azure AD Authentication",
+    "tags":"Introduction to Azure AD Authentication",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c14.jpg"
   },
   {
-    "guid": "301",
-    "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-    "title": "Azure AD",
+    "guid": "314",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/316-Secure%20Full-Stack%20Application%20Development%20on%20Azure.md",
+    "title": "Secure Full-Stack Application Development on Azure: An Advanced Step-by-Step Guide",
     "tags":"azure,app",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c15.jpg"
+  },
+  {
+    "guid": "315",
+    "path": "https://github.com/ensarbooks/guides/blob/main/azure/317-Spring%20Boot%20Azure%20HTTPS%20Guide.md",
+    "title": "Spring Boot Application Development and AWS ECS Deployment (Advanced Guide)",
+    "tags":"azure,app",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
   }
-
+ 
   
 ]

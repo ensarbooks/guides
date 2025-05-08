@@ -3,36 +3,121 @@
     "guid": "600",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/600-Advanced%20Generative%20AI%20Use%20Cases%20for%20Managed%20Service%20Providers%20(MSPs).md",
     "title": "Advanced Generative AI Use Cases for Managed Service Providers (MSPs)",
-    "tags":"genai,MSP",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b0.jpg"
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
   },
   {
     "guid": "601",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/601-Generative%20AI%20in%20Capital%20Markets%20Use%20Cases%20and%20Technical%20Approaches.md",
     "title": "Generative AI in Capital Markets: Use Cases and Technical Approaches",
-    "tags":"genai,capitalmarkets",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b1.jpg"
-  } ,
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+  },
   {
     "guid": "602",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/602-Generative%20AI%20in%20Human%20Resources%20-%20A%20Comprehensive%20Technical%20Guide%20for%20HR%20Functions.md",
     "title": "Generative AI in Human Resources: A Comprehensive Technical Guide for HR Functions",
-    "tags":"genai,HR",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b2.jpg"
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c53.jpg"
   },
-  {
+ {
     "guid": "603",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/603-Generative%20AI%20in%20Private%20Equity%20%E2%80%93%20A%20Technical%20Deep%20Dive%20Across%20the%20Investment%20Lifecycle.md",
     "title": "Generative AI in Private Equity – A Technical Deep Dive Across the Investment Lifecycle",
-    "tags":"genai,privateequity",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b3.jpg"
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c54.jpg"
   },
   {
     "guid": "604",
     "path": "https://github.com/ensarbooks/guides/blob/main/genai/604-Generative%20AI%20in%20Sales%20%26%20Marketing%20Technical%20Use%20Cases%20and%20Architectures.md",
     "title": "Generative AI in Sales & Marketing: Technical Use Cases and Architectures",
-    "tags":"genai,sales,marketing",   
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b4.jpg"
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c55.jpg"
+  },
+  {
+    "guid": "605",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/605-Building%20a%20LangGraph-Powered%20RAG%20System%20with%20Tavily%20and%20NVIDIA%20DeepSeek.md",
+    "title": "Advanced Developer Guide: Building a LangGraph-Powered RAG System with Tavily and NVIDIA DeepSeek",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c56.jpg"
+  },
+ {
+    "guid": "606",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/606-Building%20a%20RAG%20Application%20with%20LlamaIndex%2C%20OpenAI%2C%20and%20Anthropic.md",
+    "title": "Advanced Guide: Building a RAG Application with LlamaIndex, OpenAI, and Anthropic",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c57.jpg"
+  },
+  {
+    "guid": "607",
+    "path": "hhttps://github.com/ensarbooks/guides/blob/main/genai/607-Building%20Advanced%20AI-Powered%20Applications%20with%20LangChain%2C%20OpenAI%2C%20and%20Anthropic.md",
+    "title": "Building Advanced AI-Powered Applications with LangChain, OpenAI, and Anthropic",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c58.jpg"
+  },
+  {
+    "guid": "608",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/608-Building%20an%20Advanced%20AI-Powered%20Application%20with%20LlamaIndex%2C%20OpenAI%2C%20and%20Anthropic.md",
+    "title": "Building an Advanced AI-Powered Application with LlamaIndex, OpenAI, and Anthropic",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c59.jpg"
+  },
+ {
+    "guid": "609",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/609-Building%20an%20AI-Powered%20Application%20with%20LlamaIndex%2C%20OpenAI%2C%20and%20Anthropic.md",
+    "title": "Building an AI-Powered Application with LlamaIndex, OpenAI, and Anthropic",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c60.jpg"
+  },
+  {
+    "guid": "610",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/610-Building%20an%20AI-Powered%20Resume%20Insights%20System%20An%20Advanced%20Step-by-Step%20Guide.md",
+    "title": "Building an AI-Powered Resume Insights System: An Advanced Step-by-Step Guide",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d1.jpg"
+  },
+  {
+    "guid": "611",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/611-Building%20an%20AI-Powered%20Resume%20Insights%20System.md",
+    "title": "Building an AI-Powered Resume Insights System: An Advanced Step-by-Step Guide",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d2.jpg"
+  },
+ {
+    "guid": "612",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/612-Developing%20Advanced%20LangChain-Powered%20APIs.md",
+    "title": "Developing Advanced LangChain-Powered APIs: A Comprehensive Guide",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d3.jpg"
+  },
+  {
+    "guid": "613",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/613-Developing%20AI%20Chatbots%20and%20Research%20Agents.md",
+    "title": "Developing AI Chatbots and Research Agents with Generative AI: A Technical Guide",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d4.jpg"
+  },
+  {
+    "guid": "614",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/614-LangChain%20and%20AI-Powered%20Financial%20Analysis.md",
+    "title": "LangChain and AI-Powered Financial Analysis: An Advanced Step-by-Step Guide",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d5.jpg"
+  },
+ {
+    "guid": "615",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/615-Mastering%20Next.js%2C%20LangChain%2C%20Prisma%2C%20and%20OpenAI.md",
+    "title": "Mastering Next.js, LangChain, Prisma, and OpenAI: An Advanced Guide",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d6.jpg"
+  },
+  {
+    "guid": "616",
+    "path": "https://github.com/ensarbooks/guides/blob/main/genai/616-SalesAgent%20Workflow.md",
+    "title": "Introduction",
+    "tags": "Generative AI",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d7.jpg"
   }
-  
-]
+
+ 
+  ]

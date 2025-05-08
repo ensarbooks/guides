@@ -1,24 +1,46 @@
 [
   {
     "guid": "200",
-    "path": "https://github.com/ensarbooks/guides/blob/main/200-Architecture/Azure%20AD%20Technical%20Architecture.md",
+    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
     "title": "Azure AD Technical Architecture Guide for IT Architects",
-    "tags":"architecture,azure",
+    "tags": "Architecture",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a1.jpg"
   },
   {
     "guid": "201",
     "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/201-LinkedIn%20Architecture.md",
     "title": "LinkedIn Architecture: A Comprehensive Software Architect’s Guide",
-    "tags":"architecture,linkedin",
+    "tags": "Architecture",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a2.jpg"
   },
   {
     "guid": "202",
     "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/202-Netflix%20System%20Architecture.md",
     "title": "Netflix System Architecture – A Comprehensive Technical Overview",
-    "tags":"architecture,netflix",
+    "tags": "Architecture",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a3.jpg"
+  },
+ {
+    "guid": "203",
+    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/203-CMS%20Tech.md",
+    "title": "Overview of Technologies",
+    "tags": "Architecture",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a4.jpg"
+  },
+  {
+    "guid": "204",
+    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/204-Designing%20a%20RESTful%20API%20for%20an%20eCommerce%20Application.md",
+    "title": "Designing a RESTful API for an eCommerce Application: A Comprehensive Guide",
+    "tags": "Architecture",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a5.jpg"
+  },
+  {
+    "guid": "205",
+    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/205-Designing%20an%20eCommerce%20Application%20Database%20(MySQL).md",
+    "title": "Designing an eCommerce Application Database (MySQL) – A Step-by-Step Guide",
+    "tags": "Architecture",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
   }
-  
-]
+ 
+ 
+  ]

@@ -1,5 +1,3 @@
-Guide on building a full-stack application using ReactJS, Spring Boot, MySQL, and Azure while ensuring ISO 27001 compliance. This guide will be tailored for advanced developers and will cover:
-
 - **Architectural considerations** for full-stack development
 - **Setting up development environments**
 - **Best practices for secure coding** in ReactJS and Spring Boot
@@ -10,8 +8,6 @@ Guide on building a full-stack application using ReactJS, Spring Boot, MySQL, an
 - **CI/CD pipeline security**
 - **Deployment strategies** in Azure
 - **Audit and logging practices** to meet compliance standards
-
-I will let you know once the guide is ready for review.
 
 # 1. Introduction
 

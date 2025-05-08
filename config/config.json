@@ -1,438 +1,629 @@
 [
     {
-        "guid": "200",
-        "path": "https://github.com/ensarbooks/guides/blob/main/200-Architecture/Azure%20AD%20Technical%20Architecture.md",
-        "title": "Azure AD Technical Architecture Guide for IT Architects",
-        "tags": "architecture,azure",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a1.jpg"
-    },
-    {
-        "guid": "201",
-        "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/201-LinkedIn%20Architecture.md",
-        "title": "LinkedIn Architecture: A Comprehensive Software Architect\u2019s Guide",
-        "tags": "architecture,linkedin",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a2.jpg"
-    },
-    {
-        "guid": "202",
-        "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/202-Netflix%20System%20Architecture.md",
-        "title": "Netflix System Architecture \u2013 A Comprehensive Technical Overview",
-        "tags": "architecture,netflix",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a3.jpg"
-    },
-    {
-        "guid": "100",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/100-Advanced%20AWS%20ECS%20and%20Spring%20Boot%20Troubleshooting%20Guide.md",
-        "title": "Advanced AWS ECS and Spring Boot Troubleshooting Guide)",
-        "tags": "aws,ecs",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
-    },
-    {
-        "guid": "101",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/101-Advanced%20Guide%20Monitoring%20100%20SQS%20Queues%20in%20a%20Spring%20Boot%20Application.md",
-        "title": "Advanced Guide: Monitoring 100 SQS Queues in a Spring Boot Application",
-        "tags": "aws,ecs",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
-    },
-    {
-        "guid": "102",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/102-AWS%20CloudFormation%20Template%20to%20Terraform.md",
-        "title": "Converting an AWS CloudFormation Template to Terraform: An Advanced Guide",
-        "tags": "aws,ecs",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c3.jpg"
-    },
-    {
-        "guid": "103",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/103-Building%20a%20HIPAA-Compliant%20Full-Stack%20Application%20with%20React%2C%20Spring%20Boot%2C%20MySQL%2C%20and%20AWS.md",
-        "title": "Building a HIPAA-Compliant Full-Stack Application with React, Spring Boot, MySQL, and AWS",
-        "tags": "aws,ecs",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c4.jpg"
-    },
-    {
-        "guid": "104",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/104-Building%20a%20Scalable%20React%2C%20TypeScript%2C%20and%20Vite%20Application%20on%20AWS.md",
-        "title": "Building a Scalable React, TypeScript, and Vite Application on AWS \u2013 A Comprehensive Guide",
-        "tags": "fullstack,spring",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c5.jpg"
-    },
-    {
-        "guid": "105",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/105-Building%20a%20Secure%20Full-Stack%20Application%20on%20AWS%20(ECS%20%26%20EC2).md",
-        "title": "Building a Secure Full-Stack Application on AWS (ECS & EC2)",
-        "tags": "fullstack,spring",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c6.jpg"
-    },
-    {
-        "guid": "106",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/106-Building%20a%20Spring%20Boot%20Application%20with%20ELK%20Stack%20Integration.md",
-        "title": "Building a Spring Boot Application with ELK Stack Integration (Step-by-Step Guide)",
-        "tags": "fullstack,spring",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c7.jpg"
-    },
-    {
-        "guid": "107",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/107-Building%20a%20Spring%20Boot%20Microservice%20with%20Health%20Checks%20and%20AWS%20Auto-Scaling.md",
-        "title": "Building a Spring Boot Microservice with Health Checks and AWS Auto-Scaling",
-        "tags": "fullstack,spring",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c8.jpg"
-    },
-    {
-        "guid": "108",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/108-Deploying%20a%20Full-Stack%20SaaS%20Application%20on%20AWS%20ECS%20(React%20%26%20Spring%20Boot).md",
-        "title": "Deploying a Full-Stack SaaS Application on AWS ECS (React & Spring Boot)",
-        "tags": "fullstack,spring",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c9.jpg"
-    },
-    {
-        "guid": "109",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/109-Deploying%20a%20Full-Stack%20SaaS%20on%20AWS%20for%201%20Million%20Users.md",
-        "title": "Deploying a Full-Stack SaaS on AWS for 1 Million Users",
-        "tags": "fullstack,spring",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
-    },
-    {
-        "guid": "110",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/110-Developing%20an%20Advanced%20React%20Application%20with%20Health%20Checks%20and%20AWS%20Auto-Scaling.md",
-        "title": "Developing an Advanced React Application with Health Checks and AWS Auto-Scaling",
-        "tags": "fullstack,spring",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c11.jpg"
-    },
-    {
-        "guid": "111",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/111-Introduction%20to%20Backup%20and%20Disaster%20Recovery%20(DR).md",
-        "title": "Introduction to Backup and Disaster Recovery (DR)",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c12.jpg"
-    },
-    {
-        "guid": "112",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/112-Monitoring%20100%20SQS%20Queues%20in%20a%20Spring%20Boot%20Application.md",
-        "title": "Advanced Guide: Monitoring 100 SQS Queues in a Spring Boot Application",
-        "tags": "fullstack,spring",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c13.jpg"
-    },
-    {
-        "guid": "113",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/113-MySQL%20AWS%20DB%20Guide.md",
-        "title": "Introduction",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c14.jpg"
-    },
-    {
-        "guid": "114",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/114-Setting%20Up%20an%20AWS%20SFTP%20Server%20with%20AWS%20Transfer%20Family%20(Username-Password%20Authentication).md",
-        "title": "Setting Up an AWS SFTP Server with AWS Transfer Family (Username-Password Authentication)",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c15.jpg"
-    },
-    {
-        "guid": "115",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/115-Setting%20Up%20an%20AWS%20SFTP%20Server%20with%20AWS%20Transfer%20Family%20Username-Password%20Authentication.md",
-        "title": "Setting Up an AWS SFTP Server with AWS Transfer Family (Username-Password Authentication)",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
-    },
-    {
-        "guid": "116",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/116-Terraform%20Guide%20AWS%20API%20Gateway%20Deployment%20with%20Multiple%20Environments.md",
-        "title": "Terraform Guide: AWS API Gateway Deployment with Multiple Environments",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
-    },
-    {
-        "guid": "117",
-        "path": "https://github.com/ensarbooks/guides/blob/main/aws/117-Terraform%20Guide%20EC2-based%20Elasticsearch%20Cluster%20with%20ELB.md",
-        "title": "Terraform Guide: EC2-based Elasticsearch Cluster with ELB",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c18.jpg"
-    },
-    {
-        "guid": "300",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/300-Advanced%20Azure%20AD%20Application%20Integration%20Guide%20(React%20SPA%20%26%20Spring%20Boot%20API).md",
-        "title": "Advanced Azure AD Application Integration Guide (React SPA & Spring Boot API)",
-        "tags": "azure,react,spring",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a5.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "302",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "303",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "304",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "301",
-        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
-        "title": "Azure AD",
-        "tags": "azure,app",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
-    },
-    {
-        "guid": "400",
-        "path": "https://github.com/ensarbooks/guides/blob/main/domain/CLO%20CDO.md",
-        "title": "Training Manual on Collateralized Loan Obligations (CLOs) and Collateralized Debt Obligations (CDOs)",
-        "tags": "industry,CLO",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a13.jpg"
-    },
-    {
-        "guid": "401",
-        "path": "https://github.com/ensarbooks/guides/blob/main/domain/Private%20Equity%20A%20Comprehensive%20Training%20Manual.md",
-        "title": "Private Equity: A Comprehensive Training Manual",
-        "tags": "industry,PE",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a8.jpg"
-    },
-    {
-        "guid": "402",
-        "path": "https://github.com/ensarbooks/guides/blob/main/domain/Managed%20Service%20Provider%20Training%20Manual.md",
-        "title": "Managed Service Provider (MSP) Training Manual",
-        "tags": "industry,MSP",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a9.jpg"
-    },
-    {
-        "guid": "500",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/500-Advanced%20Guide%20Enhancing%20Customer%20Order%20and%20Shipment%20Experience%20with%20ReactJS.md",
-        "title": "Advanced Guide: Enhancing Customer Order and Shipment Experience with ReactJS",
-        "tags": "fullstck,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
-    },
-    {
-        "guid": "501",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/501-Advanced%20Query%20Writing.md",
-        "title": "Advanced SQL Query Writing",
-        "tags": "fullstack,sql",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
-    },
-    {
-        "guid": "502",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/502-Building%20a%20Content%20Management%20System%20with%20Spring%20Boot%2C%20React.js%2C%20and%20MySQL.md",
-        "title": "Building a Content Management System with Spring Boot, React.js, and MySQL",
-        "tags": "fullstck,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c3.jpg"
-    },
-    {
-        "guid": "503",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/503-Building%20a%20Deals%20Management%20System%20with%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
-        "title": "Building a Deals Management System with React, Spring Boot, and MySQL",
-        "tags": "fullstack,sql",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c4.jpg"
-    },
-    {
-        "guid": "504",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/504-Building%20a%20Full-Stack%20Application%20with%20React%2C%20NestJS%2C%20GraphQL%20%26%20PostgreSQL%20(Step-by-Step%20Guide).md",
-        "title": "Building a Full-Stack Application with React, NestJS, GraphQL & PostgreSQL (Step-by-Step Guide)",
-        "tags": "fullstck,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c5.jpg"
-    },
-    {
-        "guid": "505",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/505-Building%20a%20Full-Stack%20Node.js%20Application.md",
-        "title": "Building a Full-Stack Node.js Application: An Advanced Step-by-Step Guide",
-        "tags": "fullstack,sql",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c6.jpg"
-    },
-    {
-        "guid": "506",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/506-Building%20a%20Full-Stack%20Spring%20Boot%20and%20React%20Application.md",
-        "title": "Building a Full-Stack Spring Boot and React Application: Step-by-Step Guide",
-        "tags": "fullstck,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c7.jpg"
-    },
-    {
-        "guid": "507",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/507-Building%20a%20Multi-Tenant%20Application%20with%20React%2C%20TypeScript%2C%20Spring%20Boot%2C%20and%20MySQL.md",
-        "title": "Building a Multi-Tenant Application with React, TypeScript, Spring Boot, and MySQL",
-        "tags": "fullstack,sql",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c8.jpg"
-    },
-    {
-        "guid": "508",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/508-Building%20a%20React%20%2B%20TypeScript%20%2B%20Vite%20Application%20with%20Google%20Analytics%20and%20Data%20Tracking.md",
-        "title": "Building a React + TypeScript + Vite Application with Google Analytics and Data Tracking",
-        "tags": "fullstck,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c9.jpg"
-    },
-    {
-        "guid": "509",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/509-Building%20a%20ReactJS%20and%20Spring%20Boot%20Application%20with%20a%20Real-Time%20Notification%20System.md",
-        "title": "Building a ReactJS and Spring Boot Application with a Real-Time Notification System",
-        "tags": "fullstack,sql",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
-    },
-    {
-        "guid": "510",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/510-Firebase%20Application%20Setup%20with%20Advanced%20Authentication%20and%20Multi-Tenancy.md",
-        "title": "Firebase Application Setup with Advanced Authentication and Multi-Tenancy",
-        "tags": "fullstck,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c11.jpg"
-    },
-    {
-        "guid": "511",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/511-Full-Stack%20Development%20and%20ISO%2027001%20Azure.md",
-        "title": "Full-Stack Development and ISO 27001 Azure",
-        "tags": "fullstack,sql",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c12.jpg"
-    },
-    {
-        "guid": "512",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/512-Fullstack%20AWS%20ISO%2027001.md",
-        "title": "Introduction",
-        "tags": "fullstck,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c13.jpg"
-    },
-    {
-        "guid": "513",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/513-Fullstack%20AWS%20SOC2.md",
-        "title": "Introduction",
-        "tags": "fullstack,sql",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c14.jpg"
-    },
-    {
-        "guid": "514",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/514-Google%20Login%20with%20Firebase%2C%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
-        "title": "Google Login with Firebase, React, Spring Boot, and MySQL \u2013 Step-by-Step Guide",
-        "tags": "fullstck,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c15.jpg"
-    },
-    {
-        "guid": "515",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/515-Implementing%20Google%20Login%20Authentication%20with%20Firebase%20in%20React%2C%20NestJS%2C%20and%20PostgreSQL.md",
-        "title": "Implementing Google Login Authentication with Firebase in React, NestJS, and PostgreSQL: A Step-by-Step Guide",
-        "tags": "fullstack,sql",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
-    },
-    {
-        "guid": "516",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/516-Implementing%20Google%20Login%20with%20Firebase%20Authentication%20in%20a%20React%20(.TS)%20%2B%20.NET%20Core%20%2B%20PostgreSQL%20App.md",
-        "title": "Implementing Google Login with Firebase Authentication in a React (.TS) + .NET Core + PostgreSQL App",
-        "tags": "fullstck,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
-    },
-    {
-        "guid": "517",
-        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/517-Introduction%20to%20NestJS%20and%20Secure%20Development.md",
-        "title": "Introduction to NestJS and Secure Development",
-        "tags": "fullstack,sql",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c18.jpg"
-    },
-    {
-        "guid": "600",
-        "path": "https://github.com/ensarbooks/guides/blob/main/genai/600-Advanced%20Generative%20AI%20Use%20Cases%20for%20Managed%20Service%20Providers%20(MSPs).md",
-        "title": "Advanced Generative AI Use Cases for Managed Service Providers (MSPs)",
-        "tags": "genai,MSP",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b0.jpg"
-    },
-    {
-        "guid": "601",
-        "path": "https://github.com/ensarbooks/guides/blob/main/genai/601-Generative%20AI%20in%20Capital%20Markets%20Use%20Cases%20and%20Technical%20Approaches.md",
-        "title": "Generative AI in Capital Markets: Use Cases and Technical Approaches",
-        "tags": "genai,capitalmarkets",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b1.jpg"
-    },
-    {
-        "guid": "602",
-        "path": "https://github.com/ensarbooks/guides/blob/main/genai/602-Generative%20AI%20in%20Human%20Resources%20-%20A%20Comprehensive%20Technical%20Guide%20for%20HR%20Functions.md",
-        "title": "Generative AI in Human Resources: A Comprehensive Technical Guide for HR Functions",
-        "tags": "genai,HR",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b2.jpg"
-    },
-    {
-        "guid": "603",
-        "path": "https://github.com/ensarbooks/guides/blob/main/genai/603-Generative%20AI%20in%20Private%20Equity%20%E2%80%93%20A%20Technical%20Deep%20Dive%20Across%20the%20Investment%20Lifecycle.md",
-        "title": "Generative AI in Private Equity \u2013 A Technical Deep Dive Across the Investment Lifecycle",
-        "tags": "genai,privateequity",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b3.jpg"
-    },
-    {
-        "guid": "604",
-        "path": "https://github.com/ensarbooks/guides/blob/main/genai/604-Generative%20AI%20in%20Sales%20%26%20Marketing%20Technical%20Use%20Cases%20and%20Architectures.md",
-        "title": "Generative AI in Sales & Marketing: Technical Use Cases and Architectures",
-        "tags": "genai,sales,marketing",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b4.jpg"
-    },
-    {
         "guid": "1100",
         "path": "https://github.com/ensarbooks/guides/blob/main/.net/1100-Advanced%20Guide%20to%20C%23%2C%20ASP.NET%20MVC%20Web%20Forms%2C%20Web%20API%2C%20and%20SQL%20Server.md",
         "title": "Advanced Guide to C#, ASP.NET MVC/Web Forms, Web API, and SQL Server",
         "tags": ".net,c#",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c20.jpg"
     },
     {
         "guid": "1101",
         "path": "https://github.com/ensarbooks/guides/blob/main/.net/1101-Building%20a%20.NET%C2%A07%20Application.md",
         "title": "Building a .NET 7 Application \u2013 Advanced Step-by-Step Guide",
         "tags": ".net,c#",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c21.jpg"
+    },
+    {
+        "guid": "1102",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1102-Building%20a%20.sNET%20API%20A%20Comprehensive%20Step-by-Step%20Guide.md",
+        "title": "Building a .NET API: A Comprehensive Step-by-Step Guide",
+        "tags": ".net,c#",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c22.jpg"
+    },
+    {
+        "guid": "1103",
+        "path": "hhttps://github.com/ensarbooks/guides/blob/main/.net/1103-Building%20a%20.NET%20Core%20Blog%20Application.md",
+        "title": "Building a .NET Core Blog Application: A Step-by-Step Guide",
+        "tags": ".net,c#",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c23.jpg"
+    },
+    {
+        "guid": "1104",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1104-Building%20a%20Secure%20.NET%20Core%20API%20An%20OWASP%20Top%2010%20Guide.md",
+        "title": "Building a Secure .NET Core API: An OWASP Top 10 Guide",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d24.jpg"
+    },
+    {
+        "guid": "1105",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1105-C%23%20Advanced%20Topics.md",
+        "title": "C# Advanced Topics",
+        "tags": ".net,c#",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c25.jpg"
+    },
+    {
+        "guid": "1106",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1106-Client%20Projects%20Management%20System%20with%20React%2C%20.NET%20Core%2C%20and%20PostgreSQL%20%E2%80%93%20Step-by-Step%20Guide.md",
+        "title": "Client Projects Management System with React, .NET Core, and PostgreSQL \u2013 Step-by-Step Guide",
+        "tags": ".net,c#",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c26.jpg"
+    },
+    {
+        "guid": "1107",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1107-Deployment%2C%20Maintenance%2C%20and%20Troubleshooting%20Guide%20for%20C%23%20.NET%20and%20ASP%20NET%20Applications.md",
+        "title": "Deployment, Maintenance, and Troubleshooting Guide for C# .NET and ASP.NET Applications",
+        "tags": ".net,c#",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c27.jpg"
+    },
+    {
+        "guid": "1108",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1108-Deployment%2C%20Maintenance%2C%20and%20Troubleshooting%20Guide%20for%20C%23%20.NET%20and%20ASP.NET%20Applications.md",
+        "title": "Deployment, Maintenance, and Troubleshooting Guide for C# .NET and ASP.NET Applications",
+        "tags": ".net,c#",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c28.jpg"
+    },
+    {
+        "guid": "1109",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1109-Developing%20an%20Advanced%20.NET%208%20Application%20with%20Authentication%20and%20Authorization.md",
+        "title": "Developing an Advanced .NET 8 Application with Authentication and Authorization",
+        "tags": ".net,c#",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c29.jpg"
+    },
+    {
+        "guid": "1110",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1110-Developing%20and%20Integrating%20.NET%206%20APIs%20with%20JSON%20and%20SOAP.md",
+        "title": "Developing and Integrating .NET 6 APIs with JSON and SOAP",
+        "tags": ".net,c#",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c30.jpg"
+    },
+    {
+        "guid": "1111",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1111-Secure%20.NET%20Core%20Development.md",
+        "title": "Secure .NET Core Development: A Comprehensive Guide",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c31.jpg"
+    },
+    {
+        "guid": "1112",
+        "path": "https://github.com/ensarbooks/guides/blob/main/.net/1112-Timesheet%20Application%20%E2%80%93%20A%20Comprehensive%20Full-Stack%20Guide%20(React%20%2B%20.NET%20Core%20%2B%20MySQL).md",
+        "title": "Timesheet Application \u2013 A Comprehensive Full-Stack Guide (React + .NET Core + MySQL)",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c32.jpg"
+    },
+    {
+        "guid": "200",
+        "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
+        "title": "Azure AD Technical Architecture Guide for IT Architects",
+        "tags": "Architecture",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a1.jpg"
+    },
+    {
+        "guid": "201",
+        "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/201-LinkedIn%20Architecture.md",
+        "title": "LinkedIn Architecture: A Comprehensive Software Architect\u2019s Guide",
+        "tags": "Architecture",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a2.jpg"
+    },
+    {
+        "guid": "202",
+        "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/202-Netflix%20System%20Architecture.md",
+        "title": "Netflix System Architecture \u2013 A Comprehensive Technical Overview",
+        "tags": "Architecture",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a3.jpg"
+    },
+    {
+        "guid": "203",
+        "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/203-CMS%20Tech.md",
+        "title": "Overview of Technologies",
+        "tags": "Architecture",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a4.jpg"
+    },
+    {
+        "guid": "204",
+        "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/204-Designing%20a%20RESTful%20API%20for%20an%20eCommerce%20Application.md",
+        "title": "Designing a RESTful API for an eCommerce Application: A Comprehensive Guide",
+        "tags": "Architecture",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a5.jpg"
+    },
+    {
+        "guid": "205",
+        "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/205-Designing%20an%20eCommerce%20Application%20Database%20(MySQL).md",
+        "title": "Designing an eCommerce Application Database (MySQL) \u2013 A Step-by-Step Guide",
+        "tags": "Architecture",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a6.jpg"
+    },
+    {
+        "guid": "100",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/100-Advanced%20AWS%20ECS%20and%20Spring%20Boot%20Troubleshooting%20Guide.md",
+        "title": "Advanced AWS ECS and Spring Boot Troubleshooting Guide)",
+        "tags": "aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b1.jpg"
+    },
+    {
+        "guid": "101",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/101-Advanced%20Guide%20Monitoring%20100%20SQS%20Queues%20in%20a%20Spring%20Boot%20Application.md",
+        "title": "Advanced Guide: Monitoring 100 SQS Queues in a Spring Boot Application",
+        "tags": "aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b2.jpg"
+    },
+    {
+        "guid": "102",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/102-AWS%20CloudFormation%20Template%20to%20Terraform.md",
+        "title": "Converting an AWS CloudFormation Template to Terraform: An Advanced Guide",
+        "tags": "aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b3.jpg"
+    },
+    {
+        "guid": "103",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/103-Building%20a%20HIPAA-Compliant%20Full-Stack%20Application%20with%20React%2C%20Spring%20Boot%2C%20MySQL%2C%20and%20AWS.md",
+        "title": "Building a HIPAA-Compliant Full-Stack Application with React, Spring Boot, MySQL, and AWS",
+        "tags": "aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b4.jpg"
+    },
+    {
+        "guid": "104",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/104-Building%20a%20Scalable%20React%2C%20TypeScript%2C%20and%20Vite%20Application%20on%20AWS.md",
+        "title": "Building a Scalable React, TypeScript, and Vite Application on AWS \u2013 A Comprehensive Guide",
+        "tags": "fullstack,spring",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b5.jpg"
+    },
+    {
+        "guid": "105",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/105-Building%20a%20Secure%20Full-Stack%20Application%20on%20AWS%20(ECS%20%26%20EC2).md",
+        "title": "Building a Secure Full-Stack Application on AWS (ECS & EC2)",
+        "tags": "fullstack,spring",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b6.jpg"
+    },
+    {
+        "guid": "106",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/106-Building%20a%20Spring%20Boot%20Application%20with%20ELK%20Stack%20Integration.md",
+        "title": "Building a Spring Boot Application with ELK Stack Integration (Step-by-Step Guide)",
+        "tags": "fullstack,spring",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b7.jpg"
+    },
+    {
+        "guid": "107",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/107-Building%20a%20Spring%20Boot%20Microservice%20with%20Health%20Checks%20and%20AWS%20Auto-Scaling.md",
+        "title": "Building a Spring Boot Microservice with Health Checks and AWS Auto-Scaling",
+        "tags": "fullstack,spring",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b8.jpg"
+    },
+    {
+        "guid": "108",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/108-Deploying%20a%20Full-Stack%20SaaS%20Application%20on%20AWS%20ECS%20(React%20%26%20Spring%20Boot).md",
+        "title": "Deploying a Full-Stack SaaS Application on AWS ECS (React & Spring Boot)",
+        "tags": "fullstack,spring",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b9.jpg"
+    },
+    {
+        "guid": "109",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/109-Deploying%20a%20Full-Stack%20SaaS%20on%20AWS%20for%201%20Million%20Users.md",
+        "title": "Deploying a Full-Stack SaaS on AWS for 1 Million Users",
+        "tags": "fullstack,spring",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b10.jpg"
+    },
+    {
+        "guid": "110",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/110-Developing%20an%20Advanced%20React%20Application%20with%20Health%20Checks%20and%20AWS%20Auto-Scaling.md",
+        "title": "Developing an Advanced React Application with Health Checks and AWS Auto-Scaling",
+        "tags": "fullstack,spring",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b11.jpg"
+    },
+    {
+        "guid": "111",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/111-Introduction%20to%20Backup%20and%20Disaster%20Recovery%20(DR).md",
+        "title": "Introduction to Backup and Disaster Recovery (DR)",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b12.jpg"
+    },
+    {
+        "guid": "112",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/112-Monitoring%20100%20SQS%20Queues%20in%20a%20Spring%20Boot%20Application.md",
+        "title": "Advanced Guide: Monitoring 100 SQS Queues in a Spring Boot Application",
+        "tags": "fullstack,spring",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b13.jpg"
+    },
+    {
+        "guid": "113",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/113-MySQL%20AWS%20DB%20Guide.md",
+        "title": "Introduction",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b14.jpg"
+    },
+    {
+        "guid": "114",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/114-Setting%20Up%20an%20AWS%20SFTP%20Server%20with%20AWS%20Transfer%20Family%20(Username-Password%20Authentication).md",
+        "title": "Setting Up an AWS SFTP Server with AWS Transfer Family (Username-Password Authentication)",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b15.jpg"
+    },
+    {
+        "guid": "115",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/115-Setting%20Up%20an%20AWS%20SFTP%20Server%20with%20AWS%20Transfer%20Family%20Username-Password%20Authentication.md",
+        "title": "Setting Up an AWS SFTP Server with AWS Transfer Family (Username-Password Authentication)",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b16.jpg"
+    },
+    {
+        "guid": "116",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/116-Terraform%20Guide%20AWS%20API%20Gateway%20Deployment%20with%20Multiple%20Environments.md",
+        "title": "Terraform Guide: AWS API Gateway Deployment with Multiple Environments",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b17.jpg"
+    },
+    {
+        "guid": "117",
+        "path": "https://github.com/ensarbooks/guides/blob/main/aws/117-Terraform%20Guide%20EC2-based%20Elasticsearch%20Cluster%20with%20ELB.md",
+        "title": "Terraform Guide: EC2-based Elasticsearch Cluster with ELB",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b18.jpg"
+    },
+    {
+        "guid": "300",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/300-Advanced%20Azure%20AD%20Application%20Integration%20Guide%20(React%20SPA%20%26%20Spring%20Boot%20API).md",
+        "title": "Advanced Azure AD Application Integration Guide (React SPA & Spring Boot API)",
+        "tags": "azure,react,spring",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+    },
+    {
+        "guid": "301",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/301-Azure%20AD%20App%20Setup.md",
+        "title": "Azure AD",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
+    },
+    {
+        "guid": "302",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/302-Azure%20Building%20a%20Full-Stack%20Application%20with%20React%20and%20.NET%20Core.md",
+        "title": "Building a Full-Stack Application with React and .NET Core",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c3.jpg"
+    },
+    {
+        "guid": "303",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/303-Building%20a%20HIPAA-Compliant%20Full-Stack%20Application%20with%20React%2C%20Spring%20Boot%2C%20MySQL%2C%20and%20Azure.md",
+        "title": "Building a HIPAA-Compliant Full-Stack Application with React, Spring Boot, MySQL, and Azure",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c4.jpg"
+    },
+    {
+        "guid": "304",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/304-Deploying%20React%20%26%20Spring%20Boot%20on%20Azure%20VMSS%20with%20Docker%20and%20Terraform.md",
+        "tags": "Deploying React & Spring Boot on Azure VMSS with Docker and Terraform",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c5.jpg"
+    },
+    {
+        "guid": "305",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/305-Deploying%20React%20and%20.NET%20Core%20Apps%20as%20Docker%20Containers%20on%20Azure%20with%20Terraform.md",
+        "tags": "Deploying React and .NET Core Apps as Docker Containers on Azure with Terraform",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c6.jpg"
+    },
+    {
+        "guid": "306",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/306-Deploying%20React%20and%20.NET%20Core%20Docker%20Applications%20on%20Azure%20VMSS%20with%20Terraform.md",
+        "title": "Deploying React and .NET Core Docker Applications on Azure VMSS with Terraform",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c7.jpg"
+    },
+    {
+        "guid": "307",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/307-Deploying%20React%20and%20Spring%20Boot%20Applications%20to%20Azure%20Web%20Apps%20with%20Docker%20and%20Terraform.md",
+        "title": "Deploying React and Spring Boot Applications to Azure Web Apps with Docker and Terraform: An Advanced Guide",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c8.jpg"
+    },
+    {
+        "guid": "308",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/308-Developing%20Applications%20on%20Microsoft%20Azure%20Cloud%20An%20Advanced%20Guide.md",
+        "title": "Developing Applications on Microsoft Azure Cloud: An Advanced Guide",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c9.jpg"
+    },
+    {
+        "guid": "309",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/309-Implementing%20Azure%20AD%20Authentication%20with%20React%2C%20NestJS%20%26%20PostgreSQL%20%E2%80%93%20A%20Step-by-Step%20Guide.md",
+        "title": "Implementing Azure AD Authentication with React, NestJS & PostgreSQL \u2013 A Step-by-Step Guide",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
+    },
+    {
+        "guid": "310",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/310-Introduction%20to%20Azure%20AD%20B2C.md",
+        "title": "Introduction to Azure AD B2C",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c11.jpg"
+    },
+    {
+        "guid": "311",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/311-MySQL%20in%20Azure.md",
+        "title": "Introduction to MySQL in Azure",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c12.jpg"
+    },
+    {
+        "guid": "312",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/312-React%20Azure%20HTTPS%20Deployment.md",
+        "title": "React Azure HTTPS Deployment",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c13.jpg"
+    },
+    {
+        "guid": "313",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/314-React%20Spring%20Boot%20MySQL%20Azure%20AD%20Authentication.md",
+        "title": "Introduction to Azure AD Authentication",
+        "tags": "Introduction to Azure AD Authentication",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c14.jpg"
+    },
+    {
+        "guid": "314",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/316-Secure%20Full-Stack%20Application%20Development%20on%20Azure.md",
+        "title": "Secure Full-Stack Application Development on Azure: An Advanced Step-by-Step Guide",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c15.jpg"
+    },
+    {
+        "guid": "315",
+        "path": "https://github.com/ensarbooks/guides/blob/main/azure/317-Spring%20Boot%20Azure%20HTTPS%20Guide.md",
+        "title": "Spring Boot Application Development and AWS ECS Deployment (Advanced Guide)",
+        "tags": "azure,app",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
+    },
+    {
+        "guid": "400",
+        "path": "https://github.com/ensarbooks/guides/blob/main/domain/CLO%20CDO.md",
+        "title": "Training Manual on Collateralized Loan Obligations (CLOs) and Collateralized Debt Obligations (CDOs)",
+        "tags": "industry,CLO",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
+    },
+    {
+        "guid": "401",
+        "path": "https://github.com/ensarbooks/guides/blob/main/domain/Private%20Equity%20A%20Comprehensive%20Training%20Manual.md",
+        "title": "Private Equity: A Comprehensive Training Manual",
+        "tags": "industry,PE",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c18.jpg"
+    },
+    {
+        "guid": "402",
+        "path": "https://github.com/ensarbooks/guides/blob/main/domain/Managed%20Service%20Provider%20Training%20Manual.md",
+        "title": "Managed Service Provider (MSP) Training Manual",
+        "tags": "industry,MSP",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c19.jpg"
+    },
+    {
+        "guid": "500",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/500-Advanced%20Guide%20Enhancing%20Customer%20Order%20and%20Shipment%20Experience%20with%20ReactJS.md",
+        "title": "Advanced Guide: Enhancing Customer Order and Shipment Experience with ReactJS",
+        "tags": "fullstck,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c33.jpg"
+    },
+    {
+        "guid": "501",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/501-Advanced%20Query%20Writing.md",
+        "title": "Advanced SQL Query Writing",
+        "tags": "fullstack,sql",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c34.jpg"
+    },
+    {
+        "guid": "502",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/502-Building%20a%20Content%20Management%20System%20with%20Spring%20Boot%2C%20React.js%2C%20and%20MySQL.md",
+        "title": "Building a Content Management System with Spring Boot, React.js, and MySQL",
+        "tags": "fullstck,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c35.jpg"
+    },
+    {
+        "guid": "503",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/503-Building%20a%20Deals%20Management%20System%20with%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+        "title": "Building a Deals Management System with React, Spring Boot, and MySQL",
+        "tags": "fullstack,sql",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c36.jpg"
+    },
+    {
+        "guid": "504",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/504-Building%20a%20Full-Stack%20Application%20with%20React%2C%20NestJS%2C%20GraphQL%20%26%20PostgreSQL%20(Step-by-Step%20Guide).md",
+        "title": "Building a Full-Stack Application with React, NestJS, GraphQL & PostgreSQL (Step-by-Step Guide)",
+        "tags": "fullstck,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c37.jpg"
+    },
+    {
+        "guid": "505",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/505-Building%20a%20Full-Stack%20Node.js%20Application.md",
+        "title": "Building a Full-Stack Node.js Application: An Advanced Step-by-Step Guide",
+        "tags": "fullstack,sql",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c38.jpg"
+    },
+    {
+        "guid": "506",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/506-Building%20a%20Full-Stack%20Spring%20Boot%20and%20React%20Application.md",
+        "title": "Building a Full-Stack Spring Boot and React Application: Step-by-Step Guide",
+        "tags": "fullstck,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c39.jpg"
+    },
+    {
+        "guid": "507",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/507-Building%20a%20Multi-Tenant%20Application%20with%20React%2C%20TypeScript%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+        "title": "Building a Multi-Tenant Application with React, TypeScript, Spring Boot, and MySQL",
+        "tags": "fullstack,sql",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c40.jpg"
+    },
+    {
+        "guid": "508",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/508-Building%20a%20React%20%2B%20TypeScript%20%2B%20Vite%20Application%20with%20Google%20Analytics%20and%20Data%20Tracking.md",
+        "title": "Building a React + TypeScript + Vite Application with Google Analytics and Data Tracking",
+        "tags": "fullstck,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c41.jpg"
+    },
+    {
+        "guid": "509",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/509-Building%20a%20ReactJS%20and%20Spring%20Boot%20Application%20with%20a%20Real-Time%20Notification%20System.md",
+        "title": "Building a ReactJS and Spring Boot Application with a Real-Time Notification System",
+        "tags": "fullstack,sql",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c42.jpg"
+    },
+    {
+        "guid": "510",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/510-Firebase%20Application%20Setup%20with%20Advanced%20Authentication%20and%20Multi-Tenancy.md",
+        "title": "Firebase Application Setup with Advanced Authentication and Multi-Tenancy",
+        "tags": "fullstck,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c43.jpg"
+    },
+    {
+        "guid": "511",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/511-Full-Stack%20Development%20and%20ISO%2027001%20Azure.md",
+        "title": "Full-Stack Development and ISO 27001 Azure",
+        "tags": "fullstack,sql",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c44.jpg"
+    },
+    {
+        "guid": "512",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/512-Fullstack%20AWS%20ISO%2027001.md",
+        "title": "Introduction",
+        "tags": "fullstck,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c45.jpg"
+    },
+    {
+        "guid": "513",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/513-Fullstack%20AWS%20SOC2.md",
+        "title": "Introduction",
+        "tags": "fullstack,sql",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c46.jpg"
+    },
+    {
+        "guid": "514",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/514-Google%20Login%20with%20Firebase%2C%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+        "title": "Google Login with Firebase, React, Spring Boot, and MySQL \u2013 Step-by-Step Guide",
+        "tags": "fullstck,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c47.jpg"
+    },
+    {
+        "guid": "515",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/515-Implementing%20Google%20Login%20Authentication%20with%20Firebase%20in%20React%2C%20NestJS%2C%20and%20PostgreSQL.md",
+        "title": "Implementing Google Login Authentication with Firebase in React, NestJS, and PostgreSQL: A Step-by-Step Guide",
+        "tags": "fullstack,sql",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c48.jpg"
+    },
+    {
+        "guid": "516",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/516-Implementing%20Google%20Login%20with%20Firebase%20Authentication%20in%20a%20React%20(.TS)%20%2B%20.NET%20Core%20%2B%20PostgreSQL%20App.md",
+        "title": "Implementing Google Login with Firebase Authentication in a React (.TS) + .NET Core + PostgreSQL App",
+        "tags": "fullstck,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c49.jpg"
+    },
+    {
+        "guid": "517",
+        "path": "https://github.com/ensarbooks/guides/blob/main/fullstack/517-Introduction%20to%20NestJS%20and%20Secure%20Development.md",
+        "title": "Introduction to NestJS and Secure Development",
+        "tags": "fullstack,sql",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c50.jpg"
+    },
+    {
+        "guid": "600",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/600-Advanced%20Generative%20AI%20Use%20Cases%20for%20Managed%20Service%20Providers%20(MSPs).md",
+        "title": "Advanced Generative AI Use Cases for Managed Service Providers (MSPs)",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+        "guid": "601",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/601-Generative%20AI%20in%20Capital%20Markets%20Use%20Cases%20and%20Technical%20Approaches.md",
+        "title": "Generative AI in Capital Markets: Use Cases and Technical Approaches",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+        "guid": "602",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/602-Generative%20AI%20in%20Human%20Resources%20-%20A%20Comprehensive%20Technical%20Guide%20for%20HR%20Functions.md",
+        "title": "Generative AI in Human Resources: A Comprehensive Technical Guide for HR Functions",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c53.jpg"
+    },
+    {
+        "guid": "603",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/603-Generative%20AI%20in%20Private%20Equity%20%E2%80%93%20A%20Technical%20Deep%20Dive%20Across%20the%20Investment%20Lifecycle.md",
+        "title": "Generative AI in Private Equity \u2013 A Technical Deep Dive Across the Investment Lifecycle",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c54.jpg"
+    },
+    {
+        "guid": "604",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/604-Generative%20AI%20in%20Sales%20%26%20Marketing%20Technical%20Use%20Cases%20and%20Architectures.md",
+        "title": "Generative AI in Sales & Marketing: Technical Use Cases and Architectures",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c55.jpg"
+    },
+    {
+        "guid": "605",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/605-Building%20a%20LangGraph-Powered%20RAG%20System%20with%20Tavily%20and%20NVIDIA%20DeepSeek.md",
+        "title": "Advanced Developer Guide: Building a LangGraph-Powered RAG System with Tavily and NVIDIA DeepSeek",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c56.jpg"
+    },
+    {
+        "guid": "606",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/606-Building%20a%20RAG%20Application%20with%20LlamaIndex%2C%20OpenAI%2C%20and%20Anthropic.md",
+        "title": "Advanced Guide: Building a RAG Application with LlamaIndex, OpenAI, and Anthropic",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c57.jpg"
+    },
+    {
+        "guid": "607",
+        "path": "hhttps://github.com/ensarbooks/guides/blob/main/genai/607-Building%20Advanced%20AI-Powered%20Applications%20with%20LangChain%2C%20OpenAI%2C%20and%20Anthropic.md",
+        "title": "Building Advanced AI-Powered Applications with LangChain, OpenAI, and Anthropic",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c58.jpg"
+    },
+    {
+        "guid": "608",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/608-Building%20an%20Advanced%20AI-Powered%20Application%20with%20LlamaIndex%2C%20OpenAI%2C%20and%20Anthropic.md",
+        "title": "Building an Advanced AI-Powered Application with LlamaIndex, OpenAI, and Anthropic",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c59.jpg"
+    },
+    {
+        "guid": "609",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/609-Building%20an%20AI-Powered%20Application%20with%20LlamaIndex%2C%20OpenAI%2C%20and%20Anthropic.md",
+        "title": "Building an AI-Powered Application with LlamaIndex, OpenAI, and Anthropic",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c60.jpg"
+    },
+    {
+        "guid": "610",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/610-Building%20an%20AI-Powered%20Resume%20Insights%20System%20An%20Advanced%20Step-by-Step%20Guide.md",
+        "title": "Building an AI-Powered Resume Insights System: An Advanced Step-by-Step Guide",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d1.jpg"
+    },
+    {
+        "guid": "611",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/611-Building%20an%20AI-Powered%20Resume%20Insights%20System.md",
+        "title": "Building an AI-Powered Resume Insights System: An Advanced Step-by-Step Guide",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d2.jpg"
+    },
+    {
+        "guid": "612",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/612-Developing%20Advanced%20LangChain-Powered%20APIs.md",
+        "title": "Developing Advanced LangChain-Powered APIs: A Comprehensive Guide",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d3.jpg"
+    },
+    {
+        "guid": "613",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/613-Developing%20AI%20Chatbots%20and%20Research%20Agents.md",
+        "title": "Developing AI Chatbots and Research Agents with Generative AI: A Technical Guide",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d4.jpg"
+    },
+    {
+        "guid": "614",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/614-LangChain%20and%20AI-Powered%20Financial%20Analysis.md",
+        "title": "LangChain and AI-Powered Financial Analysis: An Advanced Step-by-Step Guide",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d5.jpg"
+    },
+    {
+        "guid": "615",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/615-Mastering%20Next.js%2C%20LangChain%2C%20Prisma%2C%20and%20OpenAI.md",
+        "title": "Mastering Next.js, LangChain, Prisma, and OpenAI: An Advanced Guide",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d6.jpg"
+    },
+    {
+        "guid": "616",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/616-SalesAgent%20Workflow.md",
+        "title": "Introduction",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d7.jpg"
     },
     {
         "guid": "700",
@@ -779,79 +970,355 @@
     },
     {
         "guid": "752",
-        "path": "https://github.com/ensarbooks/guides/blob/main/products/740-Shopping%20Cart%20SaaS%20Product%20Requirements%20Document.md",
-        "title": "Shopping Cart SaaS Product Requirements Document",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/752-Product%20Requirements%20Document-%20SaaS%20Corporate%20Tax%20Management%20Application.md",
+        "title": "Product Requirements Document: SaaS Corporate Tax Management Application",
         "tags": "product,accounting",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c54.jpg"
     },
     {
         "guid": "753",
-        "path": "https://github.com/ensarbooks/guides/blob/main/products/752-Product%20Requirements%20Document-%20SaaS%20Corporate%20Tax%20Management%20Application.md",
-        "title": "Product Requirements Document: SaaS Corporate Tax Management Application",
+        "path": "https://github.com/ensarbooks/guides/blob/main/products/753-SaaS%20Revenue%20Management%20Application%20%E2%80%93%20Product%20Requirements%20Document.md",
+        "title": "SaaS Revenue Management Application \u2013 Product Requirements Document",
         "tags": "product,accounting",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c55.jpg"
+    },
+    {
+        "guid": "900",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/900-Advanced%20application%20using%20React.md",
+        "title": "Advanced application using React",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d7.jpg"
+    },
+    {
+        "guid": "901",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/901-Advanced%20React%20%26%20TypeScript%20Guide.md",
+        "title": "Advanced React & TypeScript Guide",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d8.jpg"
+    },
+    {
+        "guid": "902",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/902-Advanced%20React%20Development.md",
+        "title": "Advanced React Development: A Step-by-Step Guide",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d9.jpg"
+    },
+    {
+        "guid": "903",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/903-Advanced%20React%20Native%20%2B%20Firebase%20Guide%20Authentication%20%26%20User%20Management.md",
+        "title": "Advanced React Native + Firebase Guide Authentication & User Management",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d10.jpg"
+    },
+    {
+        "guid": "904",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/904-Advanced%20ReactJS%20A%20Comprehensive%20Step-by-Step%20Guide%20for%20Experienced%20Developers.md",
+        "title": "Advanced ReactJS: A Comprehensive Step-by-Step Guide for Experienced Developers",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d11.jpg"
+    },
+    {
+        "guid": "905",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/905-Advanced%20ReactJS.md",
+        "title": "Introduction to ReactJS",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d12.jpg"
+    },
+    {
+        "guid": "906",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/906-Building%20a%20Large-Scale%20React%20%26%20TypeScript%20Application%20with%20Complex%20Forms.md",
+        "title": "Building a Large-Scale React & TypeScript Application with Complex Forms \u2013 A Step-by-Step Guide",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d13.jpg"
+    },
+    {
+        "guid": "907",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/907-Building%20a%20Secure%20ReactJS%20and%20TypeScript%20Application.md",
+        "title": "Building a Secure ReactJS and TypeScript Application \u2013 A Comprehensive Guide",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d14.jpg"
+    },
+    {
+        "guid": "908",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/908-Building%20a%20Udemy-like%20Video%20Streaming%20Platform%20with%20React.js%20%26%20NestJS.md",
+        "title": "Building a Udemy-ike Video Streaming Platform with React.js & NestJS",
+        "tags": "React JS,TypeScript ",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d15.jpg"
+    },
+    {
+        "guid": "909",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/909-Building%20a%20Workflow%20UI%20Application%20with%20React.md",
+        "title": "Building a Workflow UI Application with React, TypeScript, React Flow, and Drag-and-Drop",
+        "tags": "React JS,TypeScript ",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d16.jpg"
+    },
+    {
+        "guid": "910",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/910-Building%20an%20Advanced%20Audio%20Recording%20App%20with%20React.js%20and%20TypeScript.md",
+        "title": "Building an Advanced Audio Recording App with React.js and TypeScript",
+        "tags": "React JS,TypeScript ",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d17.jpg"
+    },
+    {
+        "guid": "911",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/911-Building%20an%20Advanced%20Firebase%20Application.md",
+        "title": "Building an Advanced Firebase Application: A Step-by-Step Guide",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d18.jpg"
+    },
+    {
+        "guid": "912",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/912-Building%20an%20Advanced%20Responsive%20Dashboard%20with%20React%2C%20TypeScript%2C%20and%20Tailwind%20CSS.md",
+        "title": "Building an Advanced Responsive Dashboard with React, TypeScript, and Tailwind CSS",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d19.jpg"
+    },
+    {
+        "guid": "913",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/913-Building%20Data%20Rich%20Scientific%20Web%20Applications%20with%20React.md",
+        "title": "Building Data-Rich Scientific Web Applications with React: A Step-by-Step Guide",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d20.jpg"
+    },
+    {
+        "guid": "914",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/914-Building%20Fluid%2C%20Responsive%20UIs%20with%20Next.js%20%E2%80%93%20Advanced%20Guide.md",
+        "title": "Building Fluid, Responsive UIs with Next.js \u2013 Advanced Guide",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d21.jpg"
+    },
+    {
+        "guid": "915",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/915-Deploying%20a%20Full-Stack%20Application%20in%20an%20On-Prem%20Kubernetes%20Cluster%20with%20ArgoCD.md",
+        "title": "Deploying a Full-Stack Application in an On-Prem Kubernetes Cluster with ArgoCD",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d22.jpg"
+    },
+    {
+        "guid": "916",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/916-React%20AWS%20HTTPS%20Deployment.md",
+        "title": "Developing and Deploying a Secure React Application on AWS ECS",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d23.jpg"
+    },
+    {
+        "guid": "917",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/917-React%20for%201M%20users.md",
+        "title": "Setting Up the Project",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d24.jpg"
+    },
+    {
+        "guid": "918",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/918-React%20Frontend%20%26%20Spring%20Boot%20Backend%20on%20On%E2%80%91Premises%20Kubernetes.md",
+        "title": "Advanced Deployment Guide: React Frontend & Spring Boot Backend on On\u2011Premises Kubernetes",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d25.jpg"
+    },
+    {
+        "guid": "919",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/919-React%20TS%20Office%20365%20Teams.md",
+        "title": "Introduction",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d26.jpg"
+    },
+    {
+        "guid": "920",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/920-ReactJS%20Security%20Guide.md",
+        "title": "Introduction",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d27.jpg"
+    },
+    {
+        "guid": "921",
+        "path": "https://github.com/ensarbooks/guides/blob/main/react/921-ReactJS%2C%20Webpack%2C%20ES6%2C%20and%20Babel.md",
+        "title": "Introduction and Setup",
+        "tags": "React JS,TypeScript",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d28.jpg"
     },
     {
         "guid": "800",
         "path": "https://github.com/ensarbooks/guides/blob/main/security/NIST%20800-53%20Compliance%20Manual%20for%20E-Commerce%20Startups.md",
         "title": "NIST 800-53 Compliance Manual for E-Commerce Startups",
         "tags": "security,compliance",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/b6.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d29.jpg"
     },
     {
         "guid": "1000",
         "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1000-Advanced%20Spring%20Boot%20and%20MongoDB.md",
         "title": "Advanced Spring Boot and MongoDB: A Comprehensive Step-by-Step Guide",
-        "tags": "springboot,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d30.jpg"
     },
     {
         "guid": "1001",
         "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1001-Advanced%20Spring%20Boot%20Application%20Development.md",
         "title": "Advanced Spring Boot Application Development: A Step-by-Step Guide",
-        "tags": "springboot,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d31.jpg"
     },
     {
-        "guid": "1000",
-        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1000-Advanced%20Spring%20Boot%20and%20MongoDB.md",
-        "title": "Advanced Spring Boot and MongoDB: A Comprehensive Step-by-Step Guide",
-        "tags": "springboot,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
+        "guid": "1002",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1002-Building%20a%20Secure%20Spring%20Boot%20Application.md",
+        "title": "Building a Secure Spring Boot Application (Step-by-Step Guide)",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d32.jpg"
     },
     {
-        "guid": "1001",
-        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1001-Advanced%20Spring%20Boot%20Application%20Development.md",
-        "title": "Advanced Spring Boot Application Development: A Step-by-Step Guide",
-        "tags": "springboot,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
+        "guid": "1003",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1003-Building%20a%20Spring%20Boot%20Application%20with%20Micrometer%20Observability.md",
+        "title": "Building a Spring Boot Application with Micrometer Observability \u2013 A Step-by-Step Guide",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d33.jpg"
     },
     {
-        "guid": "1000",
-        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1000-Advanced%20Spring%20Boot%20and%20MongoDB.md",
-        "title": "Advanced Spring Boot and MongoDB: A Comprehensive Step-by-Step Guide",
+        "guid": "1004",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1004-Building%20an%20Advanced%20Contact%20Management%20System%20with%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+        "title": "Building an Advanced Contact Management System with React, Spring Boot, and MySQL",
         "tags": "springboot,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d34.jpg"
     },
     {
-        "guid": "1001",
-        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1001-Advanced%20Spring%20Boot%20Application%20Development.md",
-        "title": "Advanced Spring Boot Application Development: A Step-by-Step Guide",
+        "guid": "1005",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1005-Building%20an%20Advanced%20Microservices%20Application%20with%20Spring%20Boot%2C%20AWS%20SQS%2C%20Firebase%2C%20and%20MySQL.md",
+        "title": "Building an Advanced Microservices Application with Spring Boot, AWS SQS, Firebase, and MySQL: A Step-by-Step Guide",
         "tags": "springboot,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d35.jpg"
     },
     {
-        "guid": "1000",
-        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1000-Advanced%20Spring%20Boot%20and%20MongoDB.md",
-        "title": "Advanced Spring Boot and MongoDB: A Comprehensive Step-by-Step Guide",
+        "guid": "1006",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1006-Building%20an%20Advanced%20React%20Native%20Video%20%26%20Audio%20Recorder%20with%20AWS%20S3%20Integration.md",
+        "title": "Building an Advanced React Native Video & Audio Recorder with AWS S3 Integration",
         "tags": "springboot,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a10.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d36.jpg"
     },
     {
-        "guid": "1001",
-        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1001-Advanced%20Spring%20Boot%20Application%20Development.md",
-        "title": "Advanced Spring Boot Application Development: A Step-by-Step Guide",
+        "guid": "1007",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1007-Building%20an%20Advanced%20Spring%20Boot%20Application%20A%20Step-by-Step%20Guide.md",
+        "title": "Building an Advanced Spring Boot Application: A Step-by-Step Guide",
         "tags": "springboot,react",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/a12.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d37.jpg"
+    },
+    {
+        "guid": "1008",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1008-Building%20an%20E-Commerce%20Application%20with%20Spring%20Boot%2C%20Apache%20Kafka%2C%20and%20MySQL.md",
+        "title": "Building an E-Commerce Application with Spring Boot, Apache Kafka, and MySQL",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d38.jpg"
+    },
+    {
+        "guid": "1009",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1009-Building%20an%20Invoice%20Management%20System%20with%20React%2C%20Spring%20Boot%2C%20and%20MySQL.md",
+        "title": "Building an Invoice Management System with React, Spring Boot, and MySQL",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d39.jpg"
+    },
+    {
+        "guid": "1010",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1010-Building%20Complex%20Spring%20Boot%20Microservices%20A%20Step-by-Step%20Advanced%20Guide.md",
+        "title": "Building Complex Spring Boot Microservices: A Step-by-Step Advanced Guide",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d40.jpg"
+    },
+    {
+        "guid": "1011",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1011-Building%20Spring%20Boot%20Microservices%20with%20Elasticsearch%2C%20Kibana%2C%20and%20More.md",
+        "title": "Building Spring Boot Microservices with Elasticsearch, Kibana, and More",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d41.jpg"
+    },
+    {
+        "guid": "1012",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1012-Developing%20a%20Chrome%20Extension%20to%20Extract%20LinkedIn%20Profile%20Information%20Step-by-Step%20Guide.md",
+        "title": "Developing a Chrome Extension to Extract LinkedIn Profile Information: Step-by-Step Guide",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d42.jpg"
+    },
+    {
+        "guid": "1013",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1013-Developing%20a%20Complex%20E-commerce%20Application%20with%20Spring%20Boot%20Microservices.md",
+        "title": "Introduction to Microservices Architecture in E-commerce",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d43.jpg"
+    },
+    {
+        "guid": "1014",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1014-Full%20Stack%20Application%20Guide%20React%20Frontend%20%26%20Spring%20Boot%20Backend.md",
+        "title": "Full-Stack Application Guide: React Frontend & Spring Boot Backend",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d44.jpg"
+    },
+    {
+        "guid": "1015",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1015-Introduction%20to%20Observability.md",
+        "title": "Introduction to Observability",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d45.jpg"
+    },
+    {
+        "guid": "1016",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1016-Logging%20Best%20Practices%20in%20Spring%20Boot%20and%20Spring%20Applications.md",
+        "title": "Logging Best Practices in Spring Boot and Spring Applications (A Software Architect\u2019s Guide)",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d46.jpg"
+    },
+    {
+        "guid": "1017",
+        "path": "hhttps://github.com/ensarbooks/guides/blob/main/springboot/1017-Mastering%20Event-Driven%20Architecture%20with%20Spring%20Boot%20and%20AWS%20SQS.md",
+        "title": "Mastering Event-Driven Architecture with Spring Boot and AWS SQS",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d47.jpg"
+    },
+    {
+        "guid": "1018",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1018-Redis%20and%20Spring%20Boot.md",
+        "title": "Redis and Spring Boot: An Advanced Integration Guide",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d48.jpg"
+    },
+    {
+        "guid": "1019",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1019-Spring%20Boot%20Application%20Development%20and%20AWS%20ECS%20Deployment.md",
+        "title": "Spring Boot Application Development and AWS ECS Deployment (Advanced Guide)",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d49.jpg"
+    },
+    {
+        "guid": "1020",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1020-Spring%20Boot%20Application%20Logging%20with%20Filebeat%2C%20Elasticsearch%2C%20and%20Kibana%20%E2%80%93%20A%20Step-by-Step%20Guide.md",
+        "title": "Spring Boot Application Logging with Filebeat, Elasticsearch, and Kibana \u2013 A Step-by-Step Guide",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d50.jpg"
+    },
+    {
+        "guid": "1021",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1021-Spring%20Boot%20AWS%20ECS%20HTTPS.md",
+        "title": "Project Setup",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d51.jpg"
+    },
+    {
+        "guid": "1022",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1022-Spring%20Boot%20Complex%20CRUD%20Guide.md",
+        "title": "Project Setup & Configuration",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d52.jpg"
+    },
+    {
+        "guid": "1023",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1023-Spring%20Boot%20Dependency%20License%20Scanner.md",
+        "title": "Step-by-Step Guide: Spring Boot Dependency License Scanner",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d53.jpg"
+    },
+    {
+        "guid": "1024",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1024-Spring%20Boot%20Implementation%20Guide%20for%20Workflow%20Schema.md",
+        "title": "Advanced Integration Guide: React, TypeScript & Material UI with a MySQL API",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d54.jpg"
+    },
+    {
+        "guid": "1025",
+        "path": "https://github.com/ensarbooks/guides/blob/main/springboot/1025-spring%20boot%20observability.md",
+        "title": "Introduction to Observability",
+        "tags": "springboot,react",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d55.jpg"
     }
 ]

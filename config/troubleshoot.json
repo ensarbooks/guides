@@ -1,0 +1,26 @@
+[
+    {
+      "guid": "1200",
+      "path": "https://github.com/ensarbooks/guides/blob/main/genai/600-Advanced%20Generative%20AI%20Use%20Cases%20for%20Managed%20Service%20Providers%20(MSPs).md",
+      "title": "Advanced Generative AI Use Cases for Managed Service Providers (MSPs)",
+      "tags": "Generative AI",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+      "guid": "1201",
+      "path": "https://github.com/ensarbooks/guides/blob/main/genai/601-Generative%20AI%20in%20Capital%20Markets%20Use%20Cases%20and%20Technical%20Approaches.md",
+      "title": "Generative AI in Capital Markets: Use Cases and Technical Approaches",
+      "tags": "Generative AI",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+      "guid": "1202",
+      "path": "https://github.com/ensarbooks/guides/blob/main/genai/602-Generative%20AI%20in%20Human%20Resources%20-%20A%20Comprehensive%20Technical%20Guide%20for%20HR%20Functions.md",
+      "title": "Generative AI in Human Resources: A Comprehensive Technical Guide for HR Functions",
+      "tags": "Generative AI",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c53.jpg"
+    }
+   
+  
+   
+    ]

@@ -1,0 +1,97 @@
+[
+  {
+    "guid": "1100",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1100-Advanced%20Guide%20to%20C%23%2C%20ASP.NET%20MVC%20Web%20Forms%2C%20Web%20API%2C%20and%20SQL%20Server.md",
+    "title": "Advanced Guide to C#, ASP.NET MVC/Web Forms, Web API, and SQL Server",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c20.jpg"
+  },
+
+  {
+    "guid": "1101",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1101-Building%20a%20.NET%C2%A07%20Application.md",
+    "title": "Building a .NET 7 Application – Advanced Step-by-Step Guide",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c21.jpg"
+  },
+  {
+    "guid": "1102",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1102-Building%20a%20.sNET%20API%20A%20Comprehensive%20Step-by-Step%20Guide.md",
+    "title": "Building a .NET API: A Comprehensive Step-by-Step Guide",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c22.jpg"
+  },
+
+  {
+    "guid": "1103",
+    "path": "hhttps://github.com/ensarbooks/guides/blob/main/.net/1103-Building%20a%20.NET%20Core%20Blog%20Application.md",
+    "title": "Building a .NET Core Blog Application: A Step-by-Step Guide",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c23.jpg"
+  },
+  {
+    "guid": "1104",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1104-Building%20a%20Secure%20.NET%20Core%20API%20An%20OWASP%20Top%2010%20Guide.md",
+    "title": "Building a Secure .NET Core API: An OWASP Top 10 Guide",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d24.jpg"
+  },
+
+  {
+    "guid": "1105",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1105-C%23%20Advanced%20Topics.md",
+    "title": "C# Advanced Topics",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c25.jpg"
+  },
+  {
+    "guid": "1106",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1106-Client%20Projects%20Management%20System%20with%20React%2C%20.NET%20Core%2C%20and%20PostgreSQL%20%E2%80%93%20Step-by-Step%20Guide.md",
+    "title": "Client Projects Management System with React, .NET Core, and PostgreSQL – Step-by-Step Guide",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c26.jpg"
+  },
+
+  {
+    "guid": "1107",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1107-Deployment%2C%20Maintenance%2C%20and%20Troubleshooting%20Guide%20for%20C%23%20.NET%20and%20ASP%20NET%20Applications.md",
+    "title": "Deployment, Maintenance, and Troubleshooting Guide for C# .NET and ASP.NET Applications",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c27.jpg"
+  },
+  {
+    "guid": "1108",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1108-Deployment%2C%20Maintenance%2C%20and%20Troubleshooting%20Guide%20for%20C%23%20.NET%20and%20ASP.NET%20Applications.md",
+    "title": "Deployment, Maintenance, and Troubleshooting Guide for C# .NET and ASP.NET Applications",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c28.jpg"
+  },
+
+  {
+    "guid": "1109",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1109-Developing%20an%20Advanced%20.NET%208%20Application%20with%20Authentication%20and%20Authorization.md",
+    "title": "Developing an Advanced .NET 8 Application with Authentication and Authorization",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c29.jpg"
+  },
+  {
+    "guid": "1110",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1110-Developing%20and%20Integrating%20.NET%206%20APIs%20with%20JSON%20and%20SOAP.md",
+    "title": "Developing and Integrating .NET 6 APIs with JSON and SOAP",
+    "tags":".net,c#",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c30.jpg"
+  },
+
+  {
+    "guid": "1111",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1111-Secure%20.NET%20Core%20Development.md",
+    "title": "Secure .NET Core Development: A Comprehensive Guide",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c31.jpg"
+  },
+  {
+    "guid": "1112",
+    "path": "https://github.com/ensarbooks/guides/blob/main/.net/1112-Timesheet%20Application%20%E2%80%93%20A%20Comprehensive%20Full-Stack%20Guide%20(React%20%2B%20.NET%20Core%20%2B%20MySQL).md",
+    "title": "Timesheet Application – A Comprehensive Full-Stack Guide (React + .NET Core + MySQL)",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c32.jpg"
+  }
+
+]
