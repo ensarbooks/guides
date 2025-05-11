@@ -1229,10 +1229,10 @@
     },
     {
         "guid": "802",
-        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/802-SOC%202%20Compliance%20Requirements%20Playbook%20for%20SaaS%20Product%20Managers.md",
+        "path": "https://github.com/ensarbooks/guides/blob/main/security/802-SOC%202%20Compliance%20Requirements%20Playbook%20for%20SaaS%20Product%20Managers.md",
         "title": "SOC 2 Compliance Requirements Playbook for SaaS Product Managers",
         "tags": "security,compliance",
-        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d31.jpg"
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d10.jpg"
     },
     {
         "guid": "1000",
