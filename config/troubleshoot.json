@@ -12,6 +12,55 @@
       "title": "Troubleshooting Containerized Java Applications on AWS ECS (EC2 Launch Type)",
       "tags": "trobleshoot,aws,ecs",
       "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+      "guid": "1202",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1200-Diagnosing%20and%20Preventing%20Unexpected%20Restarts%20of%20Java%20Apps%20on%20AWS%20ECS%20(EC2).md",
+      "title": "Diagnosing and Preventing Unexpected Restarts of Java Apps on AWS ECS (EC2)",
+      "tags": "trobleshoot,aws,ecs",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+      "guid": "1203",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1201-Troubleshooting%20Containerized%20Java%20Applications%20on%20AWS%20ECS%20(EC2%20Launch%20Type).md",
+      "title": "Troubleshooting Containerized Java Applications on AWS ECS (EC2 Launch Type)",
+      "tags": "trobleshoot,aws,ecs",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+      "guid": "1204",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1200-Diagnosing%20and%20Preventing%20Unexpected%20Restarts%20of%20Java%20Apps%20on%20AWS%20ECS%20(EC2).md",
+      "title": "Diagnosing and Preventing Unexpected Restarts of Java Apps on AWS ECS (EC2)",
+      "tags": "trobleshoot,aws,ecs",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+      "guid": "1205",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1201-Troubleshooting%20Containerized%20Java%20Applications%20on%20AWS%20ECS%20(EC2%20Launch%20Type).md",
+      "title": "Troubleshooting Containerized Java Applications on AWS ECS (EC2 Launch Type)",
+      "tags": "trobleshoot,aws,ecs",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+      "guid": "1206",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1200-Diagnosing%20and%20Preventing%20Unexpected%20Restarts%20of%20Java%20Apps%20on%20AWS%20ECS%20(EC2).md",
+      "title": "Diagnosing and Preventing Unexpected Restarts of Java Apps on AWS ECS (EC2)",
+      "tags": "trobleshoot,aws,ecs",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+      "guid": "1207",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1201-Troubleshooting%20Containerized%20Java%20Applications%20on%20AWS%20ECS%20(EC2%20Launch%20Type).md",
+      "title": "Troubleshooting Containerized Java Applications on AWS ECS (EC2 Launch Type)",
+      "tags": "trobleshoot,aws,ecs",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+      "guid": "12008",
+      "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1200-Diagnosing%20and%20Preventing%20Unexpected%20Restarts%20of%20Java%20Apps%20on%20AWS%20ECS%20(EC2).md",
+      "title": "Diagnosing and Preventing Unexpected Restarts of Java Apps on AWS ECS (EC2)",
+      "tags": "trobleshoot,aws,ecs",
+      "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
     }
    
   
