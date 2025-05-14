@@ -1425,5 +1425,47 @@
         "title": "Troubleshooting Containerized Java Applications on AWS ECS (EC2 Launch Type)",
         "tags": "trobleshoot,aws,ecs",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+        "guid": "1202",
+        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1202-Troubleshooting%20JWT%2C%20OpenID%20Connect%2C%20Firebase%20Auth%2C%20and%20Azure%20AD%20Integration.md",
+        "title": "Troubleshooting JWT, OpenID Connect, Firebase Auth, and Azure AD Integration",
+        "tags": "trobleshoot,azure",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+        "guid": "1203",
+        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1203-Log%20Management%20in%20Spring%20Applications%20A%20Comprehensive%20Guide%20for%20Software%20Architects.md",
+        "title": "Log Management in Spring Applications: A Comprehensive Guide for Software Architects",
+        "tags": "trobleshoot,aws",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+        "guid": "1204",
+        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1204-Troubleshooting%20AWS%20ECS%20Performance%20(EC2%20Launch%20Type%20in%20a%20VPC).md",
+        "title": "Troubleshooting AWS ECS Performance (EC2 Launch Type in a VPC)",
+        "tags": "trobleshoot,aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+        "guid": "1206",
+        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1206-Troubleshooting%20Java%20Spring%20Boot%20Microservices%20and%20Tomcat.md",
+        "title": "Troubleshooting Java Spring Boot Microservices and Tomcat: A Comprehensive Guide for Software Architects",
+        "tags": "trobleshoot,aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
+    },
+    {
+        "guid": "1207",
+        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1207-Spring%20Boot%20Application%20Performance%20Management.md",
+        "title": "Spring Boot Application Performance Management: A Comprehensive Guide for Software Architects",
+        "tags": "trobleshoot,aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+    },
+    {
+        "guid": "12008",
+        "path": "https://github.com/ensarbooks/guides/blob/main/troubleshoot/1208-Instrumentation%20Management%20in%20Spring%20Boot%20Applications.md",
+        "title": "Instrumentation Management in Spring Boot Applications",
+        "tags": "trobleshoot,aws,ecs",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c51.jpg"
     }
 ]
