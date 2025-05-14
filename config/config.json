@@ -621,7 +621,35 @@
     {
         "guid": "616",
         "path": "https://github.com/ensarbooks/guides/blob/main/genai/616-SalesAgent%20Workflow.md",
-        "title": "Introduction",
+        "title": "Sales Agents Workflow: A Comprehensive Guide for Developers",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d7.jpg"
+    },
+    {
+        "guid": "617",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/617-Capabilities%20of%20Amazon%20Q%20Developer%20for%20Enterprise%20Cloud%20Architects.md",
+        "title": "Capabilities of Amazon Q Developer for Enterprise Cloud Architects",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d4.jpg"
+    },
+    {
+        "guid": "618",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/618-GitHub%20Copilot%20Developer%20Capabilities%20Technical%20Guide.md",
+        "title": "GitHub Copilot Developer Capabilities Technical Guide",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d5.jpg"
+    },
+    {
+        "guid": "619",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/619-GitHub%20Copilot%20for%20Architects.md",
+        "title": "GitHub Copilot for Architects: A Comprehensive Guide",
+        "tags": "Generative AI",
+        "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d6.jpg"
+    },
+    {
+        "guid": "620",
+        "path": "https://github.com/ensarbooks/guides/blob/main/genai/620-Capabilities%20of%20Amazon%20Q%20Developer%20for%20Developers.md",
+        "title": "Capabilities of Amazon Q Developer for Developers",
         "tags": "Generative AI",
         "image": "https://ensarimages.s3.us-east-1.amazonaws.com/d7.jpg"
     },
