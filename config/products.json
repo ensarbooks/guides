@@ -435,6 +435,13 @@
     "title": "SaaS Venture Capital Management Platform – Product Requirements Document",
     "tags":"product,finance",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c52.jpg"
+  },
+  {
+    "guid": "765",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/765-Mental%20Health%20SaaS%20Platform%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Mental Health SaaS Platform – Product Requirements Document",
+    "tags":"product,healthcare",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
   }
 
 ]
