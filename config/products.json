@@ -443,5 +443,75 @@
     "tags":"product,healthcare",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
   }
+   {
+    "guid": "766",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/766-Developing%20a%20SaaS%20Product%20for%20Mental%20Health%20Services.md",
+    "title": "Developing a SaaS Product for Mental Health Services: A Comprehensive Guide",
+    "tags":"product,Healthcare",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c11.jpg"
+  },
+   {
+    "guid": "767",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/767-SaaS%20Mental%20Health%20Application%20Product%20Manager%E2%80%99s%20Comprehensive%20Guide.md",
+    "title": "SaaS Mental Health Application Product Manager’s Comprehensive Guide",
+    "tags":"product,Healthcare",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c13.jpg"
+  },
+   {
+    "guid": "768",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/768-Aurora%20Mental%20Health%20Platform%20%E2%80%93%20Product%20Documentation.md",
+    "title": "Aurora Mental Health Platform – Product Documentation",
+    "tags":"product,Healthcare",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c14.jpg"
+  },
+   {
+    "guid": "769",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/769-NovaInvest%20%E2%80%93%20Product%20Plan%20for%20a%20SaaS%20Stock%20Investing%20Platform.md",
+    "title": "NovaInvest – Product Plan for a SaaS Stock Investing Platform",
+    "tags":"product,finance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c15.jpg"
+  },
+   {
+    "guid": "770",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/770-Building%20a%20Real%20Estate%20SaaS%20Product.md",
+    "title": "Building a Real Estate SaaS Product: A Comprehensive Guide for Product Developers",
+    "tags":"product,Real Estate",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
+  },
+   {
+    "guid": "771",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/771-Software%20Requirements%20Specification-P4%20Healthcare%20SaaS%20Platform.md",
+    "title": "Software Requirements Specification: P4 Healthcare SaaS Platform",
+    "tags":"product,Healthcare",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
+  },
+   {
+    "guid": "772",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/772-Investment%20Accounting%20SaaS%20%E2%80%93%20Product%20Requirements%20Document.md",
+    "title": "Investment Accounting SaaS – Product Requirements Document",
+    "tags":"product,finance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c18.jpg"
+  },
+   {
+    "guid": "773",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/773-Insurance%20Billing%20System%20%E2%80%93%20Product%20Requirements%20Document.md,
+    "title": "Insurance Billing System – Product Requirements Document",
+    "tags":"product,Insurance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c19.jpg"
+  },
+   {
+    "guid": "774",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/774-Insurance%20Agency%20Management%20System%20Requirements%20Specification.md",
+    "title": "Insurance Agency Management System Requirements Specification",
+    "tags":"product,Insurance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c20.jpg"
+  },
+   {
+    "guid": "775",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/775-Product%20Requirements%20Document%20-%20Insurance%20Claims%20Management%20SaaS%20Platform.md",
+    "title": "Product Requirements Document: Insurance Claims Management SaaS Platform",
+    "tags":"product,Insurance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c21.jpg"
+  }
 
 ]
