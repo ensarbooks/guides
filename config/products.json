@@ -442,7 +442,7 @@
     "title": "Mental Health SaaS Platform – Product Requirements Document",
     "tags":"product,healthcare",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
-  }
+  },
    {
     "guid": "766",
     "path": "https://github.com/ensarbooks/guides/blob/main/products/766-Developing%20a%20SaaS%20Product%20for%20Mental%20Health%20Services.md",
@@ -511,6 +511,48 @@
     "path": "https://github.com/ensarbooks/guides/blob/main/products/775-Product%20Requirements%20Document%20-%20Insurance%20Claims%20Management%20SaaS%20Platform.md",
     "title": "Product Requirements Document: Insurance Claims Management SaaS Platform",
     "tags":"product,Insurance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c21.jpg"
+  },
+   {
+    "guid": "776",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/776-From%20Student%20Software%20Engineer%20to%20Technical%20Director%20in%20India.md",
+    "title": "10-Year Roadmap: From Student Software Engineer to Technical Director in India",
+    "tags":"product,company",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c16.jpg"
+  },
+   {
+    "guid": "777",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/777-Product%20Requirements%20Document%20%E2%80%93%20Fulfillment%20Network%20Platform.md",
+    "title": "Product Requirements Document – Fulfillment Network Platform",
+    "tags":"product,erp",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
+  },
+   {
+    "guid": "778",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/778-CRM%20Product%20Requirements%20Document.md",
+    "title": "CRM Product Requirements Document",
+    "tags":"product,crm",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c18.jpg"
+  },
+   {
+    "guid": "779",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/779-10-Year%20Roadmap%20from%20Student%20Software%20Engineer%20to%20CEO.md",
+    "title": "10-Year Roadmap from Student Software Engineer to CEO",
+    "tags":"product,company",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c19.jpg"
+  },
+   {
+    "guid": "780",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/780-TutorConnect%20Product%20Requirements%20Document%20(PRD).md",
+    "title": "TutorConnect Product Requirements Document (PRD)",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c20.jpg"
+  },
+   {
+    "guid": "781",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/781-Comprehensive%20Career%20Development%20Plan%20From%20Entry-Level%20Software%20Engineer%20to%20Technical%20Manager.md",
+    "title": "Comprehensive Career Development Plan: From Entry-Level Software Engineer to Technical Manager",
+    "tags":"product,company",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c21.jpg"
   }
 

@@ -1,7 +1,3 @@
-Great. I’ll begin developing a comprehensive 200-page training plan designed for a student software engineer in India aiming to become a technical director within 10 years. The plan will include structured guidance for each career stage—Senior Software Engineer, Team Lead, Technical Manager, Program Manager, Architect, and Director.
-
-I’ll include timelines, required skills, certifications, project experience, soft skills development, and growth metrics relevant to the Indian tech industry. I’ll let you know once it’s ready.
-
 # 10-Year Roadmap: From Student Software Engineer to Technical Director in India
 
 ## Introduction
