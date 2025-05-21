@@ -554,6 +554,89 @@
     "title": "Comprehensive Career Development Plan: From Entry-Level Software Engineer to Technical Manager",
     "tags":"product,company",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c21.jpg"
+  },{
+    "guid": "782",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/782-Ethan%20-%20AI%20Voice%20Interviewer%20%E2%80%93%20Product%20Requirements%20Document%20(PRD).md",
+    "title": "Ethan: AI Voice Interviewer – Product Requirements Document (PRD)",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c22.jpg"
+  },
+  {
+    "guid": "783",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/783-Recruitment%20Platform%20PRD.md",
+    "title": "Recruitment Platform PRD",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c23.jpg"
+  },
+  {
+    "guid": "784",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/784-RetrievalAugmented%20Generation%20(RAG)%20in%20AI.md",
+    "title": "Retrieval-Augmented Generation (RAG) in AI: A Comprehensive Technical Report",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c24.jpg"
+  },
+  {
+    "guid": "785",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/785%20-Instant%20Access%20to%20Top%20Labor%20Force.md",
+    "title": "On-Demand Platform Features Guide",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c25.jpg"
+  },
+  {
+    "guid": "786",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/786-%20High-Level%20Design%20(HLD)%20Doctor%20Crawl%20Worker%20System.md",
+    "title": "High-Level Design (HLD) Doctor Crawl Worker System",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c26.jpg"
+  },
+  {
+    "guid": "787",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/787%20-Finance%20Automation%20Platform%20Product%20Requirements%20Document.md",
+    "title": "Finance Automation Platform – Product Requirements Document",
+    "tags":"product,Finance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c27.jpg"
+  },
+  {
+    "guid": "788",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/788-Pangea%20Platform%20Product%20Requirements%20Document%20(PRD).md",
+    "title": "Pangea Platform – Product Requirements Document (PRD)",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c28.jpg"
+  },
+  {
+    "guid": "789",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/789-Accounts%20Receivable%20Automation%20Platform%20Product%20Requirements%20Document.md",
+    "title": "Accounts Receivable Automation Platform – Product Requirements Document",
+    "tags":"product,Accounts",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c29.jpg"
+  },
+  {
+    "guid": "790",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/790-Product%20Requirements%20Document%20Live%20Online%20Education%20Platform.md",
+    "title": "Product Requirements Document – Live Online Education Platform",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c30.jpg"
+  },
+  {
+    "guid": "791",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/791-Applicant%20Tracking%20System%20(ATS)%20Product%20Requirements%20Document.md",
+    "title": "Applicant Tracking System (ATS) Product Requirements Document",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c31.jpg"
+  },
+  {
+    "guid": "792",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/792-Comprehensive%20Career%20Dev%20Plan%20From%20Entry-Level%20SW%20Engr%20to%20Tech%20Mgr.md",
+    "title": "Comprehensive Career Development Plan: From Entry-Level Software Engineer to Technical Manager",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c32.jpg"
+  },
+  {
+    "guid": "793",
+    "path": "https://github.com/ensarbooks/guides/blob/main/products/793-AI%20Powered%20Candidate%20Search%20and%20Recruiting%20Platform%20Product%20Req%20Doc.md",
+    "title": "AI-Powered Candidate Search and Recruiting Platform – Product Requirements Document",
+    "tags":"product,education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c33.jpg"
   }
 
 ]
