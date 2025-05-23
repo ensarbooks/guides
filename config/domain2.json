@@ -3,50 +3,72 @@
     "guid": "404",
     "path": "https://github.com/ensarbooks/guides/blob/main/domain2/404-Corporate%20Accounting%20Training%20Manual.md",
     "title": "Corporate Accounting Training Manual",
-    "tags": "Accounting",
+    "tags": "industry,Accounting",
     "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
   },
   {
     "guid": "405",
     "path": "https://github.com/ensarbooks/guides/blob/main/domain2/405-Corporate%20Compliance%20and%20Tax%20Advisory%20Training%20Manual.md",
     "title": "Corporate Compliance and Tax Advisory Training Manual",
-    "tags": "Architecture",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+    "tags": "industry",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
   },
   {
     "guid": "406",
-    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
-    "title": "Azure AD Technical Architecture Guide for IT Architects",
-    "tags": "Architecture",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/406-Education%20Domain.md",
+    "title": "Education Domain Concepts: A Comprehensive Guide",
+    "tags": "industry,Education",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c3.jpg"
   },
  {
     "guid": "407",
-    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
-    "title": "Azure AD Technical Architecture Guide for IT Architects",
-    "tags": "Architecture",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/408-Financial%20Ecosystem.md",
+    "title": "Advanced Financial Solutions Reference Guide ( Finance Portal)",
+    "tags": "industry,Finance",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c4.jpg"
   },
   {
     "guid": "408",
-    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
-    "title": "Azure AD Technical Architecture Guide for IT Architects",
-    "tags": "Architecture",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/409-Health%20Comprehensive%20Overview%20of%20Key%20Knowledge%20Domains%20and%20Solutions.md",
+    "title": "Health: Comprehensive Overview of Key Knowledge Domains and Solutions",
+    "tags": "industry,Healthcare",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c5.jpg"
   },
   {
     "guid": "409",
-    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
-    "title": "Azure AD Technical Architecture Guide for IT Architects",
-    "tags": "Architecture",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/410-Healthcare%20Challenges%20and%20Patient%20Outcomes.md",
+    "title": "Healthcare Challenges and Patient Outcomes: A Comprehensive Training Resource",
+    "tags": "industry,Healthcare",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c6.jpg"
   },
   {
     "guid": "410",
-    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
-    "title": "Azure AD Technical Architecture Guide for IT Architects",
-    "tags": "Architecture",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/411-Hotel%20Industry%20Domain%20for%20Business%20Analysts.md",
+    "title": "Hotel Industry Domain for Business Analysts",
+    "tags": "industry",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c7.jpg"
+  },
+  {
+    "guid": "411",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/412-Legal%20Training%20Manual.md",
+    "title": "Legal Training Manual: Comprehensive Guide for Law and Practice",
+    "tags": "industry",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c8.jpg"
+  },
+  {
+    "guid": "412",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/418-Solutions%2C%20Services%2C%20and%20Expertise%20Across%20Key%20Domains.md",
+    "title": "Solutions, Services, and Expertise Across Key Domains",
+    "tags": "industry",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c9.jpg"
+  },
+  {
+    "guid": "413",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/420-Taxation%20and%20Accounting.md",
+    "title": "Comprehensive Guide to Taxation and Accounting",
+    "tags": "industry",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
   }
+
 ]
   
