@@ -1,0 +1,52 @@
+[
+  {
+    "guid": "404",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/404-Corporate%20Accounting%20Training%20Manual.md",
+    "title": "Corporate Accounting Training Manual",
+    "tags": "Accounting",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+  },
+  {
+    "guid": "405",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain2/405-Corporate%20Compliance%20and%20Tax%20Advisory%20Training%20Manual.md",
+    "title": "Corporate Compliance and Tax Advisory Training Manual",
+    "tags": "Architecture",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+  },
+  {
+    "guid": "406",
+    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
+    "title": "Azure AD Technical Architecture Guide for IT Architects",
+    "tags": "Architecture",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+  },
+ {
+    "guid": "407",
+    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
+    "title": "Azure AD Technical Architecture Guide for IT Architects",
+    "tags": "Architecture",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+  },
+  {
+    "guid": "408",
+    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
+    "title": "Azure AD Technical Architecture Guide for IT Architects",
+    "tags": "Architecture",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+  },
+  {
+    "guid": "409",
+    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
+    "title": "Azure AD Technical Architecture Guide for IT Architects",
+    "tags": "Architecture",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+  },
+  {
+    "guid": "410",
+    "path": "https://github.com/ensarbooks/guides/blob/main/Architecture/200-Azure%20AD%20Technical%20Architecture.md",
+    "title": "Azure AD Technical Architecture Guide for IT Architects",
+    "tags": "Architecture",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
+  }
+]
+  
