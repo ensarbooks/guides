@@ -1,24 +1,80 @@
 [
   {
     "guid": "400",
-    "path": "https://github.com/ensarbooks/guides/blob/main/domain/CLO%20CDO.md",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/400-CLO%20CDO.md",
     "title": "Training Manual on Collateralized Loan Obligations (CLOs) and Collateralized Debt Obligations (CDOs)",
     "tags":"industry,CLO",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c17.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c1.jpg"
   },
   {
     "guid": "401",
-    "path": "https://github.com/ensarbooks/guides/blob/main/domain/Private%20Equity%20A%20Comprehensive%20Training%20Manual.md",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/401-Private%20Equity%20A%20Comprehensive%20Training%20Manual.md",
     "title": "Private Equity: A Comprehensive Training Manual",
     "tags":"industry,PE",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c18.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c2.jpg"
   },
   {
     "guid": "402",
-    "path": "https://github.com/ensarbooks/guides/blob/main/domain/Managed%20Service%20Provider%20Training%20Manual.md",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/402-Managed%20Service%20Provider%20Training%20Manual.md",
     "title": "Managed Service Provider (MSP) Training Manual",
     "tags":"industry,MSP",
-    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c19.jpg"
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c3.jpg"
+  },
+   {
+    "guid": "403",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/403-Backstop%20Solutions%20Training%20Manual.md",
+    "title": "Backstop Solutions Training Manual",
+    "tags":"industry,MSP",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c4.jpg"
+  },
+   {
+    "guid": "404",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/404-Emerging%20Trends%20in%20eCommerce%202025%20Global%20Insights%20for%20Executives.md",
+    "title": "Emerging Trends in eCommerce 2025: Global Insights for Executives",
+    "tags":"industry,MSP",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c5.jpg"
+  },
+   {
+    "guid": "405",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/405-LinkedIn%20Sales%20Navigator%20Search%20Techniques%20for%20Outsourcing%20Software%20Sales%20Teams.md",
+    "title": "LinkedIn Sales Navigator Search Techniques for Outsourcing Software Sales Teams",
+    "tags":"industry,MSP",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c6.jpg"
+  },
+   {
+    "guid": "406",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/406-Private%20Equity%20and%20Private%20Funds%20A%20Comprehensive%20Guide%20for%20Finance%20Professionals.md",
+    "title": "Private Equity and Private Funds: A Comprehensive Guide for Finance Professionals",
+    "tags":"industry,MSP",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c7.jpg"
+  },
+   {
+    "guid": "407",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/407-Project-Based%20Implementation%20and%20Integration.md",
+    "title": "Project-Based Implementation and Integration",
+    "tags":"industry,RealEstate",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c8.jpg"
+  },
+   {
+    "guid": "408",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/409-Sales%20Navigator%20Lead%20Search%20Techniques%20for%20Outsourcing%20Software%20Companies.md",
+    "title": "Sales Navigator Lead Search Techniques for Outsourcing Software Companies,
+    "tags":"industry,MSP",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c9.jpg"
+  },
+   {
+    "guid": "409",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/410-Syndicated%20Loans%20A%20Comprehensive%20Guide%20for%20Product%20Managers.md",
+    "title": "Syndicated Loans: A Comprehensive Guide for Product Managers",
+    "tags":"industry,MSP",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c10.jpg"
+  },
+   {
+    "guid": "410",
+    "path": "https://github.com/ensarbooks/guides/blob/main/domain/411-The%20Hotel%20Industry%20A%20Comprehensive%20Overview.md",
+    "title": "The Hotel Industry: A Comprehensive Overview",
+    "tags":"industry,Hotel",
+    "image": "https://ensarimages.s3.us-east-1.amazonaws.com/c11.jpg"
   }
-  
+   
 ]
