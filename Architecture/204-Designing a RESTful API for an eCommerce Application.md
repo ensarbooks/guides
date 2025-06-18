@@ -1,12 +1,3 @@
-- **API Architecture**: Designing RESTful endpoints and best practices.
-- **Database Schema**: SQL and NoSQL database design considerations.
-- **Authentication & Security**: JWT, OAuth, API rate limiting, and security best practices.
-- **Core Features**: Implementing user authentication, product catalog, shopping cart, orders, payments, and admin panel APIs.
-- **Documentation**: Using Swagger and Postman for API documentation.
-- **Testing & Deployment**: Unit and integration testing, Dockerization, CI/CD setup, and deployment on cloud services like AWS.
-
-I will let you know once the guide is ready for review.
-
 # Designing a RESTful API for an eCommerce Application: A Comprehensive Guide
 
 This guide walks through each step of designing a robust RESTful API for an eCommerce platform. It covers fundamental REST principles, planning and requirement analysis, database design choices, endpoint structuring, security considerations, core feature implementation, documentation, testing, deployment, and maintenance. By the end, you will have a solid blueprint for building a scalable, secure, and well-documented API that can power an eCommerce application.
